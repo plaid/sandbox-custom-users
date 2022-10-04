@@ -1,0 +1,129 @@
+{
+  "version": null,
+  "seed": null,
+  "override_accounts": [
+    {
+      "type": null,
+      "subtype": null,
+      "starting_balance": null,
+      "force_available_balance": null,
+      "currency": null,
+      "meta": {
+        "name": null,
+        "official_name": null,
+        "limit": null
+      },
+      "numbers": {
+        "account": null,
+        "ach_routing": null,
+        "ach_wire_routing": null,
+        "eft_institution": null,
+        "eft_branch": null,
+        "international_bic": null,
+        "international_iban": null,
+        "bacs_sort_code": null
+      },
+      "transactions": [
+        {
+          "date_transacted": null,
+          "date_posted": null,
+          "amount": null,
+          "description": null,
+          "currency": null
+        }
+      ],
+      "identity": {
+        "names": [
+          null
+        ],
+        "phone_numbers": [
+          {
+            "data": null,
+            "primary": null,
+            "type": null
+          }
+        ],
+        "emails": [
+          {
+            "data": null,
+            "primary": null,
+            "type": null
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "city": null,
+              "region": null,
+              "street": null,
+              "postal_code": null,
+              "country": null
+            },
+            "primary": null
+          }
+        ]
+      },
+      "liability": {
+        "type": null,
+        "purchase_apr": null,
+        "cash_apr": null,
+        "balance_transfer_apr": null,
+        "special_apr": null,
+        "last_payment_amount": null,
+        "minimum_payment_amount": null,
+        "is_overdue": null,
+        "origination_date": null,
+        "principal": null,
+        "nominal_apr": null,
+        "interest_capitalization_grace_period_months": null,
+        "repayment_model": {
+            "type": null,
+            "non_repayment_months": null,
+            "repayment_months": null
+          },
+        "expected_payoff_date": null,
+        "guarantor": null,
+        "is_federal": null,
+        "loan_name": null,
+        "loan_status": {
+            "end_date": null,
+            "type": null
+          },
+        "payment_reference_number": null,
+        "pslf_status": {
+            "estimated_eligibility_date": null,
+            "payments_made": null,
+            "payments_remaining": null
+          },
+        "repayment_plan_type": null,
+        "sequence_number": null,
+        "servicer_address": {
+            "data": {
+              "city": null,
+              "region": null,
+              "street": null,
+              "postal_code": null,
+              "country": null
+            },
+            "primary": null
+          }
+      },
+      "inflow_model": {
+        "type": null,
+        "income_amount": null,
+        "payment_day_of_month": null,
+        "transaction_name": null,
+        "statement_day_of_month": null
+      }
+    }
+  ],
+  "mfa": {
+      "type": null,
+      "question_rounds": null,
+      "questions_per_round": null,
+      "selection_rounds": null,
+      "selections_per_question": null
+    },
+  "recaptcha": null,
+  "force_error": null
+}

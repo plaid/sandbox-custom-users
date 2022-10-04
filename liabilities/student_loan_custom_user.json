@@ -1,0 +1,21 @@
+{
+  "override_accounts": [
+    {
+      "type": "loan",
+      "subtype": "student",
+      "liability": {
+        "type": "student",
+        "origination_date": "2022-01-01",
+        "principal": 45123,
+        "nominal_apr": 4.23,
+        "guarantor": "DEPT OF ED",
+        "loan_name": "Plaid Student Loan",
+        "repayment_model": {
+          "type": "standard",
+          "non_repayment_months": 12,
+          "repayment_months": 120
+        }
+      }
+    }
+  ]
+}

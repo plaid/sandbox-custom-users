@@ -1,0 +1,41 @@
+{
+   "override_accounts":[
+      {
+         "type":"depository",
+         "subtype":"checking",
+         "identity":{
+            "names":[
+               "John Smith"
+            ],
+            "addresses":[
+               {
+                  "data":{
+                     "city":"New York",
+                     "country":"US",
+                     "postal_code":"10003",
+                     "region":"NY",
+                     "street":"10003 Broadway Road"
+                  },
+                  "primary":true
+               }
+            ]
+         },
+         "transactions":[
+            {
+               "date_transacted":"2020-12-16",
+               "date_posted":"2020-12-17",
+               "amount":292.29,
+               "description":"DEBIT CRD AUTOPAY 98712 000000000098712 KIUYPKFWRSGT YOTLKJHAUXL C",
+               "currency":"USD"
+            },
+            {
+               "date_transacted":"2020-10-19",
+               "date_posted":"2020-10-20",
+               "amount":1523.52,
+               "description":"CREDIT CRD AUTOPAY 29812 000000000098123 SPKFGKABCRGK DUXZYAYOTAL X",
+               "currency":"USD"
+            }
+         ]
+      }
+   ]
+}

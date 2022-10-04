@@ -1,0 +1,25 @@
+{
+  "override_accounts": [
+    {
+      "type": "depository",
+      "subtype": "checking",
+      "identity": {
+        "names": [
+          "John Smith","Jane Doe"
+        ],
+        "addresses": [
+          {
+            "primary": true,
+            "data": {
+              "country": "US",
+              "city": "New York",
+              "street": "10003 Broadway Road",
+              "postal_code": "10003",
+              "region": "NY"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
