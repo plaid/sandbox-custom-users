@@ -11,8 +11,8 @@
          },
          "numbers":{
             "account":"111122220000",
-            "etf_institution":"114",
-            "etf_branch":"01533"
+            "eft_institution":"114",
+            "eft_branch":"01533"
          },
          "identity":{
             "names":[
@@ -56,8 +56,8 @@
          },
          "numbers":{
             "account":"111122222222",
-            "etf_institution":"114",
-            "etf_branch":"01533"
+            "eft_institution":"114",
+            "eft_branch":"01533"
          },
          "identity":{
             "names":[
