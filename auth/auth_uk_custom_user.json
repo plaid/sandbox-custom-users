@@ -8,11 +8,10 @@
             "name":"Plaid Checking",
             "official_name":"Plaid Instant Daily Checking Account"
          },
-         "numbers":{
-            "account":"111122220000",
-            "eft_institution":"114",
-            "eft_branch":"01533"
-         },
+         "numbers": {
+            "account": "123456",
+            "bacs_sort_code": "123456"
+          },
          "identity":{
             "names":[
                "John Smith"
@@ -53,11 +52,10 @@
             "name":"Plaid Savings",
             "official_name":"Plaid Growth Savings Account"
          },
-         "numbers":{
-            "account":"111122222222",
-            "eft_institution":"114",
-            "eft_branch":"01533"
-         },
+         "numbers": {
+            "account": "123457",
+            "bacs_sort_code": "123456"
+          },
          "identity":{
             "names":[
                "John Smith"
