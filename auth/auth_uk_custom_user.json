@@ -1,0 +1,93 @@
+{
+   "override_accounts":[
+      {
+         "type":"depository",
+         "subtype":"checking",
+         "starting_balance": 6543.23,
+         "force_available_balance":null,
+         "meta":{
+            "name":"Plaid Checking",
+            "official_name":"Plaid Instant Daily Checking Account"
+         },
+         "numbers": {
+            "account": "123456",
+            "bacs_sort_code": "123456"
+          },
+         "identity":{
+            "names":[
+               "John Smith"
+            ],
+            "phone_numbers": [
+               {
+               "data":"9084581209",
+               "primary":true,
+               "type":"mobile"
+            }
+            ],
+             "emails": [
+               {
+               "data":"jsmith@plaid.com",
+               "primary":true,
+               "type":"primary"
+            }
+            ],
+            "addresses":[
+               {
+                  "data":{
+                     "city":"New York",
+                     "country":"US",
+                     "postal_code":"10003",
+                     "region":"NY",
+                     "street":"10003 Broadway Road"
+                  },
+                  "primary":true
+               }
+            ]
+         }
+      },
+       {
+         "type":"depository",
+         "subtype":"savings",
+         "starting_balance": 275649.12,
+         "meta":{
+            "name":"Plaid Savings",
+            "official_name":"Plaid Growth Savings Account"
+         },
+         "numbers": {
+            "account": "123457",
+            "bacs_sort_code": "123456"
+          },
+         "identity":{
+            "names":[
+               "John Smith"
+            ],
+            "phone_numbers": [
+               {
+               "data":"9084581209",
+               "primary":true,
+               "type":"mobile"
+            }
+            ],
+             "emails": [
+               {
+               "data":"jsmith@plaid.com",
+               "primary":true,
+               "type":"primary"
+            }
+            ],
+            "addresses":[
+               {
+                  "data":{
+                     "city":"New York",
+                     "country":"US",
+                     "postal_code":"10003",
+                     "region":"NY",
+                     "street":"10003 Broadway Road"
+                  },
+                  "primary":true
+               }
+            ]
+         }
+      }
+   ]
+}
