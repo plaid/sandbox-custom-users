@@ -4,7 +4,6 @@
          "type":"depository",
          "subtype":"checking",
          "starting_balance": 6543.23,
-         "force_available_balance":null,
          "meta":{
             "name":"Plaid Checking",
             "official_name":"Plaid Instant Daily Checking Account"

@@ -4,7 +4,6 @@
          "type":"depository",
          "subtype":"checking",
          "starting_balance": 6543.23,
-         "force_available_balance":null,
          "meta":{
             "name":"Plaid Checking",
             "official_name":"Plaid Instant Daily Checking Account"
@@ -18,14 +17,14 @@
             "names":[
                "John Smith"
             ],
-            "phone_numbers": [ 
+            "phone_numbers": [
                {
                "data":"9084581209",
                "primary":true,
                "type":"mobile"
             }
             ],
-             "emails": [ 
+             "emails": [
                {
                "data":"jsmith@plaid.com",
                "primary":true,
@@ -63,14 +62,14 @@
             "names":[
                "John Smith"
             ],
-            "phone_numbers": [ 
+            "phone_numbers": [
                {
                "data":"9084581209",
                "primary":true,
                "type":"mobile"
             }
             ],
-             "emails": [ 
+             "emails": [
                {
                "data":"jsmith@plaid.com",
                "primary":true,
