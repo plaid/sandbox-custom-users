@@ -1,0 +1,28 @@
+name: Update Transaction Dates for Assets Users
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day.
+  workflow_dispatch: # Allows you to manually run this workflow from the Actions tab
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Run the script to update the date
+        run: python assets/update_date.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.email "4397978+ToddKerpelman@users.noreply.github.com"
+          git config --global user.name "ToddBot"
+          git diff --quiet || (git commit -am "Auto-update dates" && git push)
