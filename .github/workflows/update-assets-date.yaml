@@ -2,7 +2,7 @@ name: Update Transaction Dates for Assets Users
 
 on:
   schedule:
-    - cron: '30 0 * * *' # Runs at 00:30 UTC every day.
+    - cron: "30 0 * * *" # Runs at 00:30 UTC every day.
   workflow_dispatch: # Allows you to manually run this workflow from the Actions tab
 
 jobs:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Run the script to update the date
         run: python assets/update_date.py
