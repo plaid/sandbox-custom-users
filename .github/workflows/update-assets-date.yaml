@@ -2,7 +2,7 @@ name: Update Transaction Dates for Assets Users
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day.
+    - cron: '30 0 * * *' # Runs at 00:30 UTC every day.
   workflow_dispatch: # Allows you to manually run this workflow from the Actions tab
 
 jobs:
