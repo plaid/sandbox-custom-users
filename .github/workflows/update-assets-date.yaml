@@ -21,6 +21,10 @@ jobs:
       - name: Run the script to update the date
         run: python assets/update_date.py
 
+      - name: Say hello
+        run: |
+          echo "Hello from the workflow branch!"
+
       - name: Commit and push if there are changes
         run: |
           git config --global user.email "4397978+ToddKerpelman@users.noreply.github.com"
