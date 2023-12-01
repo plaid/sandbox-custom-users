@@ -2,7 +2,7 @@
 A script that updates the JSON data for our sandbox assets user so that their 
 most recent transactions are dated to today's date and work backwards from there.
 
-Currently hard-coded to use the assets_custom_user2.json file, but assuming 
+Currently hard-coded to just look at the assets users, but assuming 
 this works, we can look at making it more general purpose
 """
 
@@ -38,12 +38,12 @@ def find_most_recent_date(original_data):
     return most_recent_date
 
 
-sandbox_user_files = ["assets_custom_user.json", "assets_custom_user2.json"]
-
+sandbox_user_files = ["assets/assets_custom_user.json",
+                      "assets/assets_custom_user2.json"]
 # Iterate through each filename in the array
 for user_file in sandbox_user_files:
 
-    with open("assets/" + user_file, "r", encoding="utf-8") as file:
+    with open(user_file, "r", encoding="utf-8") as file:
         json_data = json.load(file)
 
     # Determine the most recent date from the JSON data
@@ -67,5 +67,5 @@ for user_file in sandbox_user_files:
                     )
 
     # Write the updated JSON data to a file
-    with open("assets/" + user_file, "w", encoding="utf-8") as file:
+    with open(user_file, "w", encoding="utf-8") as file:
         json.dump(json_data, file, indent=4)
