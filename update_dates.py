@@ -39,33 +39,60 @@ def find_most_recent_date(original_data):
 
 
 sandbox_user_files = ["assets/assets_custom_user.json",
-                      "assets/assets_custom_user2.json"]
+                      "assets/assets_custom_user2.json",
+                      "income/bank_income_custom_user_5_income_sources.json",
+                      "income/bank_income_custom_user_6+_employers_in_90_days.json",
+                      "income/bank_income_custom_user_random_income_over_90_days.json",
+                      "income/payrollUser.json",
+                      "income/selfEmployedGiguser.json",
+                      "income/SMBCustomUser.json",
+                      "income/SSAUser.json",
+                      "income/transactions+inflow_custom_user.json",
+                      "income/welderTestUser.json",
+                      "transactions/business_account.json",
+                      "transactions/transactions_checking+savings_custom_user.json",
+
+                      ]
 # Iterate through each filename in the array
 for user_file in sandbox_user_files:
 
-    with open(user_file, "r", encoding="utf-8") as file:
-        json_data = json.load(file)
+    try:
+        with open(user_file, "r", encoding="utf-8") as file:
+            json_data = json.load(file)
 
-    # Determine the most recent date from the JSON data
-    most_recent_date = find_most_recent_date(json_data)
-    today_date = datetime.now()
+        # Determine the most recent date from the JSON data
+        most_recent_date = find_most_recent_date(json_data)
+        today_date = datetime.now()
 
-    # Iterate over each account and transaction to update the dates
-    # Using .get() to avoid KeyError
-    for account in json_data.get("override_accounts", []):
+        # Iterate over each account and transaction to update the dates
         # Using .get() to avoid KeyError
-        transactions = account.get("transactions")
-        if transactions:  # Check if transactions is not None or empty
-            for transaction in transactions:
-                if "date_posted" in transaction:
-                    transaction["date_posted"] = scale_date(
-                        transaction["date_posted"], most_recent_date, today_date
-                    )
-                if "date_transacted" in transaction:
-                    transaction["date_transacted"] = scale_date(
-                        transaction["date_transacted"], most_recent_date, today_date
-                    )
+        for account in json_data.get("override_accounts", []):
+            # Using .get() to avoid KeyError
+            transactions = account.get("transactions")
+            if transactions:  # Check if transactions is not None or empty
+                for transaction in transactions:
+                    if "date_posted" in transaction:
+                        transaction["date_posted"] = scale_date(
+                            transaction["date_posted"], most_recent_date, today_date
+                        )
+                    if "date_transacted" in transaction:
+                        transaction["date_transacted"] = scale_date(
+                            transaction["date_transacted"], most_recent_date, today_date
+                        )
 
-    # Write the updated JSON data to a file
-    with open(user_file, "w", encoding="utf-8") as file:
-        json.dump(json_data, file, indent=4)
+        # Write the updated JSON data to a file
+        with open(user_file, "w", encoding="utf-8") as file:
+            json.dump(json_data, file, indent=4)
+
+    except FileNotFoundError:
+        print(f"File {user_file} not found")
+        continue
+    except json.JSONDecodeError:
+        print(f"File {user_file} is not valid JSON")
+        continue
+    except KeyError:
+        print(f"File {user_file} is missing a required key")
+        continue
+    except Exception as e:
+        print(f"An error occurred while processing {user_file}: {e}")
+        continue
