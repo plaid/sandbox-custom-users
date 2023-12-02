@@ -10,77 +10,106 @@ import json
 from datetime import datetime
 
 
+DATE_KEYS_TO_MODIFY = [
+    "date_posted",
+    "date_transacted",
+    "start_date",
+    "end_date",
+    "pay_day",
+    "institution_price_as_of",
+    "date",
+]
+
 # Function to calculate the new date
+
+
 def scale_date(old_date_str, base_date, target_date):
     """
     Given a date string, a base date, and a target date, scale the date string
     to a new date that is the same distance from the target date as the base date
     """
-    old_date = datetime.strptime(old_date_str, "%Y-%m-%d")
-    delta = base_date - old_date
-    new_date = target_date - delta
-    return new_date.strftime("%Y-%m-%d")
+    try:
+        old_date = datetime.strptime(old_date_str, "%Y-%m-%d")
+        delta = base_date - old_date
+        new_date = target_date - delta
+        return new_date.strftime("%Y-%m-%d")
+    except (ValueError, TypeError):
+        print(f"Yikes! Found a bad date string: {old_date_str}")
+        return old_date_str
 
 
-def find_most_recent_date(original_data):
+def find_most_recent_date(data, most_recent_date=datetime.min):
     """
-    Given the JSON data, find the most recent date from the list of transactions
+    Given the JSON data, find the most recent date from any part of the structure.
     """
-    most_recent_date = datetime.min
-    for account in original_data.get("override_accounts", []):
-        for transaction in account.get("transactions", []):
-            for date_field in ["date_posted", "date_transacted"]:
-                date_str = transaction.get(date_field)
-                if date_str:
-                    date = datetime.strptime(date_str, "%Y-%m-%d")
+    if isinstance(data, dict):
+        for key, value in data.items():
+            # Add other date keys if needed
+            if key in DATE_KEYS_TO_MODIFY:
+                try:
+                    date = datetime.strptime(value, "%Y-%m-%d")
                     if date > most_recent_date:
                         most_recent_date = date
+                except (ValueError, TypeError):
+                    print(f"Yikes! Found a bad date string: {value} in {key}")
+                    # In case the value is not a valid date string or is not a string
+                    pass
+            else:
+                most_recent_date = find_most_recent_date(
+                    value, most_recent_date)
+    elif isinstance(data, list):
+        for item in data:
+            most_recent_date = find_most_recent_date(item, most_recent_date)
+
     return most_recent_date
 
 
-sandbox_user_files = ["assets/assets_custom_user.json",
-                      "assets/assets_custom_user2.json",
-                      "income/bank_income_custom_user_5_income_sources.json",
-                      "income/bank_income_custom_user_6+_employers_in_90_days.json",
-                      "income/bank_income_custom_user_random_income_over_90_days.json",
-                      "income/payrollUser.json",
-                      "income/selfEmployedGiguser.json",
-                      "income/SMBCustomUser.json",
-                      "income/SSAUser.json",
-                      "income/transactions+inflow_custom_user.json",
-                      "income/welderTestUser.json",
-                      "transactions/business_account.json",
-                      "transactions/transactions_checking+savings_custom_user.json",
+sandbox_user_files = [
+    "assets/assets_credit_categories.json",
+    "assets/assets_custom_user.json",
+    "assets/assets_custom_user2.json",
+    "income/bank_income_custom_user_5_income_sources.json",
+    "income/bank_income_custom_user_6+_employers_in_90_days.json",
+    "income/bank_income_custom_user_random_income_over_90_days.json",
+    "income/income_custom_user.json",
+    "income/payroll_income_custom_user.json",
+    "income/payrollUser.json",
+    "income/selfEmployedGiguser.json",
+    "income/SMBCustomUser.json",
+    "income/SSAuser.json",
+    "income/transactions+inflow_custom_user.json",
+    "income/welderTestUser.json",
+    "investments/brokerage_custom_user.json",
+    "transactions/business_account.json",
+    "transactions/transactions_checking+savings_custom_user.json",
+]
 
-                      ]
+
+def update_dates(data, most_recent_date, today_date):
+    if isinstance(data, dict):
+        for key, value in data.items():
+            # Add other date keys if needed
+            if key in DATE_KEYS_TO_MODIFY:
+                data[key] = scale_date(value, most_recent_date, today_date)
+            else:
+                update_dates(value, most_recent_date, today_date)
+    elif isinstance(data, list):
+        for item in data:
+            update_dates(item, most_recent_date, today_date)
+
+
 # Iterate through each filename in the array
 for user_file in sandbox_user_files:
-
     try:
         with open(user_file, "r", encoding="utf-8") as file:
             json_data = json.load(file)
 
-        # Determine the most recent date from the JSON data
         most_recent_date = find_most_recent_date(json_data)
         today_date = datetime.now()
 
-        # Iterate over each account and transaction to update the dates
-        # Using .get() to avoid KeyError
-        for account in json_data.get("override_accounts", []):
-            # Using .get() to avoid KeyError
-            transactions = account.get("transactions")
-            if transactions:  # Check if transactions is not None or empty
-                for transaction in transactions:
-                    if "date_posted" in transaction:
-                        transaction["date_posted"] = scale_date(
-                            transaction["date_posted"], most_recent_date, today_date
-                        )
-                    if "date_transacted" in transaction:
-                        transaction["date_transacted"] = scale_date(
-                            transaction["date_transacted"], most_recent_date, today_date
-                        )
+        # Update all dates in the JSON data
+        update_dates(json_data, most_recent_date, today_date)
 
-        # Write the updated JSON data to a file
         with open(user_file, "w", encoding="utf-8") as file:
             json.dump(json_data, file, indent=4)
 
