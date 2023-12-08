@@ -1,0 +1,39 @@
+{
+  "override_accounts": [
+    {
+      "type": "depository",
+      "subtype": "checking",
+      "identity": {
+        "names": [
+          "Leslie Barbara Knope", "Ben Wyatt"
+        ],
+        "phone_numbers": [
+          {
+            "primary": true,
+            "type": "home",
+            "data": "+1-234-567-8909"
+          }
+        ],
+        "emails": [
+          {
+            "primary": true,
+            "type": "primary",
+            "data": "leslie+pawneebank@example.com"
+          }
+        ],
+        "addresses": [
+          {
+            "primary": true,
+            "data": {
+              "country": "US",
+              "city": "Pawnee",
+              "street": "123 Main St.",
+              "postal_code": "46001",
+              "region": "IN"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
