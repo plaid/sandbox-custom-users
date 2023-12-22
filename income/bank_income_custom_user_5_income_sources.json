@@ -5,85 +5,85 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2023-12-07",
-                    "date_posted": "2023-12-08",
+                    "date_transacted": "2023-12-08",
+                    "date_posted": "2023-12-09",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-06",
-                    "date_posted": "2023-11-07",
+                    "date_transacted": "2023-11-07",
+                    "date_posted": "2023-11-08",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-10-07",
-                    "date_posted": "2023-10-08",
+                    "date_transacted": "2023-10-08",
+                    "date_posted": "2023-10-09",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-09-06",
-                    "date_posted": "2023-09-07",
+                    "date_transacted": "2023-09-07",
+                    "date_posted": "2023-09-08",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-08-09",
-                    "date_posted": "2023-08-10",
+                    "date_transacted": "2023-08-10",
+                    "date_posted": "2023-08-11",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-07-09",
-                    "date_posted": "2023-07-10",
+                    "date_transacted": "2023-07-10",
+                    "date_posted": "2023-07-11",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-26",
-                    "date_posted": "2023-11-27",
+                    "date_transacted": "2023-11-27",
+                    "date_posted": "2023-11-28",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-10-26",
-                    "date_posted": "2023-10-27",
+                    "date_transacted": "2023-10-27",
+                    "date_posted": "2023-10-28",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-09-26",
-                    "date_posted": "2023-09-27",
+                    "date_transacted": "2023-09-27",
+                    "date_posted": "2023-09-28",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-12-20",
-                    "date_posted": "2023-12-21",
+                    "date_transacted": "2023-12-21",
+                    "date_posted": "2023-12-22",
                     "amount": -25,
                     "description": "bank interest payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-19",
-                    "date_posted": "2023-11-20",
+                    "date_transacted": "2023-11-20",
+                    "date_posted": "2023-11-21",
                     "amount": -25,
                     "description": "bank interest payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-10-20",
-                    "date_posted": "2023-10-21",
+                    "date_transacted": "2023-10-21",
+                    "date_posted": "2023-10-22",
                     "amount": -25,
                     "description": "bank interest payment",
                     "currency": "USD"
@@ -112,85 +112,85 @@
             "subtype": "savings",
             "transactions": [
                 {
-                    "date_transacted": "2023-12-07",
-                    "date_posted": "2023-12-08",
+                    "date_transacted": "2023-12-08",
+                    "date_posted": "2023-12-09",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-22",
-                    "date_posted": "2023-11-23",
+                    "date_transacted": "2023-11-23",
+                    "date_posted": "2023-11-24",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-06",
-                    "date_posted": "2023-11-07",
+                    "date_transacted": "2023-11-07",
+                    "date_posted": "2023-11-08",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-10-22",
-                    "date_posted": "2023-10-23",
+                    "date_transacted": "2023-10-23",
+                    "date_posted": "2023-10-24",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-10-07",
-                    "date_posted": "2023-10-08",
+                    "date_transacted": "2023-10-08",
+                    "date_posted": "2023-10-09",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-09-22",
-                    "date_posted": "2023-09-23",
+                    "date_transacted": "2023-09-23",
+                    "date_posted": "2023-09-24",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-12-11",
-                    "date_posted": "2023-12-12",
+                    "date_transacted": "2023-12-12",
+                    "date_posted": "2023-12-13",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-12-04",
-                    "date_posted": "2023-12-05",
+                    "date_transacted": "2023-12-05",
+                    "date_posted": "2023-12-06",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-27",
-                    "date_posted": "2023-11-28",
+                    "date_transacted": "2023-11-28",
+                    "date_posted": "2023-11-29",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-20",
-                    "date_posted": "2023-11-21",
+                    "date_transacted": "2023-11-21",
+                    "date_posted": "2023-11-22",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-13",
-                    "date_posted": "2023-11-14",
+                    "date_transacted": "2023-11-14",
+                    "date_posted": "2023-11-15",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-11-06",
-                    "date_posted": "2023-11-07",
+                    "date_transacted": "2023-11-07",
+                    "date_posted": "2023-11-08",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
