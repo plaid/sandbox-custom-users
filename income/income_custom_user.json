@@ -34,8 +34,8 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2023-12-19",
-                            "end_date": "2024-01-02",
+                            "start_date": "2023-12-20",
+                            "end_date": "2024-01-03",
                             "gross_earnings": 1000.39,
                             "check_amount": 499.28
                         }
