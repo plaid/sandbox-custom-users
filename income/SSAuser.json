@@ -6,170 +6,170 @@
             "starting_balance": 50000,
             "transactions": [
                 {
-                    "date_transacted": "2023-10-15",
-                    "date_posted": "2023-10-16",
-                    "amount": -2500,
-                    "description": "Social Security Administration",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2023-09-14",
-                    "date_posted": "2023-09-15",
-                    "amount": -2500,
-                    "description": "Social Security Administration",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2023-08-15",
-                    "date_posted": "2023-08-16",
-                    "amount": -2500,
-                    "description": "Social Security Administration",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2023-10-11",
-                    "date_posted": "2023-10-12",
-                    "amount": -75,
-                    "description": "child support",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2023-09-28",
-                    "date_posted": "2023-09-29",
-                    "amount": -75,
-                    "description": "child support",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2023-09-08",
-                    "date_posted": "2023-09-09",
-                    "amount": -75,
-                    "description": "child support",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2023-10-30",
-                    "date_posted": "2023-10-31",
-                    "amount": -750,
-                    "description": "Unemployment Benefits",
-                    "currency": "USD"
-                },
-                {
                     "date_transacted": "2023-10-16",
                     "date_posted": "2023-10-17",
+                    "amount": -2500,
+                    "description": "Social Security Administration",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-09-15",
+                    "date_posted": "2023-09-16",
+                    "amount": -2500,
+                    "description": "Social Security Administration",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-08-16",
+                    "date_posted": "2023-08-17",
+                    "amount": -2500,
+                    "description": "Social Security Administration",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-10-12",
+                    "date_posted": "2023-10-13",
+                    "amount": -75,
+                    "description": "child support",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-09-29",
+                    "date_posted": "2023-09-30",
+                    "amount": -75,
+                    "description": "child support",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-09-09",
+                    "date_posted": "2023-09-10",
+                    "amount": -75,
+                    "description": "child support",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-10-31",
+                    "date_posted": "2023-11-01",
                     "amount": -750,
                     "description": "Unemployment Benefits",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-10-02",
-                    "date_posted": "2023-10-03",
+                    "date_transacted": "2023-10-17",
+                    "date_posted": "2023-10-18",
                     "amount": -750,
                     "description": "Unemployment Benefits",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2023-09-18",
-                    "date_posted": "2023-09-19",
+                    "date_transacted": "2023-10-03",
+                    "date_posted": "2023-10-04",
+                    "amount": -750,
+                    "description": "Unemployment Benefits",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2023-09-19",
+                    "date_posted": "2023-09-20",
                     "amount": -750,
                     "description": "Unemployment Benefits",
                     "currency": "USD"
                 },
                 {
                     "amount": 6.33,
-                    "date_transacted": "2023-12-17",
-                    "date_posted": "2023-12-18",
+                    "date_transacted": "2023-12-18",
+                    "date_posted": "2023-12-19",
                     "currency": "USD",
                     "description": "Uber 072515 SF**POOL**"
                 },
                 {
                     "amount": 89.4,
-                    "date_transacted": "2023-12-30",
-                    "date_posted": "2023-12-31",
+                    "date_transacted": "2023-12-31",
+                    "date_posted": "2024-01-01",
                     "currency": "USD",
                     "description": "SparkFun"
                 },
                 {
                     "amount": 12,
-                    "date_transacted": "2023-12-31",
-                    "date_posted": "2024-01-01",
+                    "date_transacted": "2024-01-01",
+                    "date_posted": "2024-01-02",
                     "currency": "USD",
                     "description": "McDonalds #3322"
                 },
                 {
                     "amount": 4.33,
-                    "date_transacted": "2023-12-31",
-                    "date_posted": "2024-01-02",
+                    "date_transacted": "2024-01-01",
+                    "date_posted": "2024-01-03",
                     "currency": "USD",
                     "description": "Starbucks"
                 },
                 {
                     "amount": -500,
-                    "date_transacted": "2024-01-01",
-                    "date_posted": "2024-01-03",
+                    "date_transacted": "2024-01-02",
+                    "date_posted": "2024-01-04",
                     "currency": "USD",
                     "description": "United Airlines **** REFUND ****"
                 },
                 {
                     "amount": 5.4,
-                    "date_transacted": "2024-01-03",
-                    "date_posted": "2024-01-04",
+                    "date_transacted": "2024-01-04",
+                    "date_posted": "2024-01-05",
                     "currency": "USD",
                     "description": "Uber 063015 SF**POOL**"
                 },
                 {
                     "amount": -4.22,
-                    "date_transacted": "2023-12-29",
-                    "date_posted": "2023-12-31",
+                    "date_transacted": "2023-12-30",
+                    "date_posted": "2024-01-01",
                     "currency": "USD",
                     "description": "INTRST PYMNT"
                 },
                 {
                     "amount": 25,
-                    "date_transacted": "2024-01-03",
-                    "date_posted": "2024-01-04",
+                    "date_transacted": "2024-01-04",
+                    "date_posted": "2024-01-05",
                     "currency": "USD",
                     "description": "CREDIT CARD 3333 PAYMENT *//"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2023-12-13",
-                    "date_posted": "2023-12-15",
+                    "date_transacted": "2023-12-14",
+                    "date_posted": "2023-12-16",
                     "currency": "USD",
                     "description": "Madison Bicycle Shop"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2023-12-13",
-                    "date_posted": "2023-12-15",
+                    "date_transacted": "2023-12-14",
+                    "date_posted": "2023-12-16",
                     "currency": "USD",
                     "description": "KFC"
                 },
                 {
                     "amount": 2078.5,
-                    "date_transacted": "2023-12-13",
-                    "date_posted": "2023-12-14",
+                    "date_transacted": "2023-12-14",
+                    "date_posted": "2023-12-15",
                     "currency": "USD",
                     "description": "AUTOMATIC PAYMENT - THANK"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2023-12-14",
-                    "date_posted": "2023-12-15",
+                    "date_transacted": "2023-12-15",
+                    "date_posted": "2023-12-16",
                     "currency": "USD",
                     "description": "Tectra Inc"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2023-12-19",
-                    "date_posted": "2023-12-20",
+                    "date_transacted": "2023-12-20",
+                    "date_posted": "2023-12-21",
                     "currency": "USD",
                     "description": "United Airlines"
                 },
                 {
                     "amount": 78.5,
-                    "date_transacted": "2024-01-01",
-                    "date_posted": "2024-01-04",
+                    "date_transacted": "2024-01-02",
+                    "date_posted": "2024-01-05",
                     "currency": "USD",
                     "description": "Touchstone Climbing"
                 }
