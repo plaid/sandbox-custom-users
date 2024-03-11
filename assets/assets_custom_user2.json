@@ -1,27 +1,27 @@
-{
-    "override_accounts": [
+{json
+    "override_accounts": [savings
         {
             "type": "depository",
             "subtype": "savings",
-            "transactions": [
+            "transactions": [true
                 {
                     "date_transacted": "2024-02-29",
                     "date_posted": "2024-03-01",
                     "amount": 896.65,
                     "description": "DEBIT CRD AUTOPAY 98712 000000000028791 KIUYPWRSGTKF UXYOTLLKJHA C",
-                    "currency": "USD"
+                    "currency": "CAD"
                 },
                 {
                     "date_transacted": "2022-03-04",
                     "date_posted": "2022-03-05",
                     "amount": 1708.12,
                     "description": "CREDIT CRD AUTOPAY 29812 000000000098123 CRGKFKKSPABG UXZYOTAYLDA D",
-                    "currency": "USD"
+                    "currency": "CAD"
                 }
             ],
             "identity": {
                 "names": [
-                    "John Smith"
+                    "Json"
                 ],
                 "addresses": [
                     {
