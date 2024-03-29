@@ -1,93 +1,118 @@
 {
-   "override_accounts":[
-      {
-         "type":"depository",
-         "subtype":"checking",
-         "starting_balance": 6543.23,
-         "force_available_balance":null,
-         "meta":{
-            "name":"Plaid Checking",
-            "official_name":"Plaid Instant Daily Checking Account"
-         },
-         "numbers":{
-            "account":"1111222233335555",
-            "ach_routing":"122105155"
-         },
-         "identity":{
-            "names":[
-               "John Smith"
-            ],
-            "phone_numbers": [ 
-               {
-               "data":"9084581209",
-               "primary":true,
-               "type":"mobile"
-            }
-            ],
-             "emails": [ 
-               {
-               "data":"jsmith@plaid.com",
-               "primary":true,
-               "type":"primary"
-            }
-            ],
-            "addresses":[
-               {
-                  "data":{
-                     "city":"New York",
-                     "country":"US",
-                     "postal_code":"10003",
-                     "region":"NY",
-                     "street":"10003 Broadway Road"
-                  },
-                  "primary":true
-               }
-            ]
-         }
+  "override_accounts": [
+    {
+      "type": "depository",
+      "subtype": "checking",
+      "starting_balance": 600.23,
+      "meta": {
+        "name": "Joint Checking",
+        "official_name": "Plaid Joint Checking Account"
       },
-       {
-         "type":"depository",
-         "subtype":"savings",
-         "starting_balance": 275649.12,
-         "meta":{
-            "name":"Plaid Savings",
-            "official_name":"Plaid Growth Savings Account"
-         },
-         "numbers":{
-            "account":"6666777788889999",
-            "ach_routing":"122105155"
-         },
-         "identity":{
-            "names":[
-               "John Smith", "Joe Smith"
-            ],
-            "phone_numbers": [ 
-               {
-               "data":"9084581209",
-               "primary":true,
-               "type":"mobile"
-            }
-            ],
-             "emails": [ 
-               {
-               "data":"jsmith@plaid.com",
-               "primary":true,
-               "type":"primary"
-            }
-            ],
-            "addresses":[
-               {
-                  "data":{
-                     "city":"New York",
-                     "country":"US",
-                     "postal_code":"10003",
-                     "region":"NY",
-                     "street":"10003 Broadway Road"
-                  },
-                  "primary":true
-               }
-            ]
-         }
+      "numbers": {
+        "account": "1111222233335555",
+        "ach_routing": "122105155"
+      },
+      "identity": {
+        "names": ["John Michael Smith", "Jane Alana Smith"],
+        "phone_numbers": [
+          {
+            "data": "2123433503",
+            "primary": true,
+            "type": "mobile"
+          },
+          {
+            "data": "2125552144",
+            "primary": false,
+            "type": "mobile"
+          }
+        ],
+        "emails": [
+          {
+            "data": "jm_smith@plaid.com",
+            "primary": true,
+            "type": "primary"
+          },
+          {
+            "data": "jane_smith@plaid.com",
+            "primary": false,
+            "type": "secondary"
+          },
+          {
+            "data": "hihi@gmail.com",
+            "primary": false,
+            "type": "other"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "city": "New York",
+              "country": "US",
+              "postal_code": "10013",
+              "region": "NY",
+              "street": "452 Greenwich St"
+            },
+            "primary": true
+          }
+        ]
       }
-   ]
+    },
+    {
+      "type": "depository",
+      "subtype": "savings",
+      "starting_balance": 2588.12,
+      "meta": {
+        "name": "Joint Savings",
+        "official_name": "Plaid Growth Savings Account"
+      },
+      "numbers": {
+        "account": "6666777788889999",
+        "ach_routing": "122105155"
+      },
+      "identity": {
+        "names": ["John Michael Smith", "Jane Alana Smith"],
+        "phone_numbers": [
+          {
+            "data": "2123433503",
+            "primary": true,
+            "type": "mobile"
+          },
+          {
+            "data": "2125552144",
+            "primary": false,
+            "type": "mobile"
+          }
+        ],
+        "emails": [
+          {
+            "data": "jsmith@plaid.com",
+            "primary": true,
+            "type": "primary"
+          },
+          {
+            "data": "jane_smith@plaid.com",
+            "primary": false,
+            "type": "secondary"
+          },
+          {
+            "data": "hihi@gmail.com",
+            "primary": false,
+            "type": "other"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "city": "New York",
+              "country": "US",
+              "postal_code": "10013",
+              "region": "NY",
+              "street": "452 Greenwich St"
+            },
+            "primary": true
+          }
+        ]
+      }
+    }
+  ]
 }
