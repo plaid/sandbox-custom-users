@@ -5,57 +5,57 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2024-04-09",
-                    "date_posted": "2024-04-10",
+                    "date_transacted": "2024-04-10",
+                    "date_posted": "2024-04-11",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-02-23",
-                    "date_posted": "2024-02-24",
+                    "date_transacted": "2024-02-24",
+                    "date_posted": "2024-02-25",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-02-02",
-                    "date_posted": "2024-02-03",
+                    "date_transacted": "2024-02-03",
+                    "date_posted": "2024-02-04",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-29",
-                    "date_posted": "2024-03-30",
+                    "date_transacted": "2024-03-30",
+                    "date_posted": "2024-03-31",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-14",
-                    "date_posted": "2024-03-15",
+                    "date_transacted": "2024-03-15",
+                    "date_posted": "2024-03-16",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-25",
-                    "date_posted": "2024-03-26",
+                    "date_transacted": "2024-03-26",
+                    "date_posted": "2024-03-27",
                     "amount": -75,
                     "description": "child support",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-03",
-                    "date_posted": "2024-03-04",
+                    "date_transacted": "2024-03-04",
+                    "date_posted": "2024-03-05",
                     "amount": -75,
                     "description": "child support",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-02-10",
-                    "date_posted": "2024-02-11",
+                    "date_transacted": "2024-02-11",
+                    "date_posted": "2024-02-12",
                     "amount": -75,
                     "description": "child support",
                     "currency": "USD"
@@ -84,15 +84,15 @@
             "subtype": "savings",
             "transactions": [
                 {
-                    "date_transacted": "2024-04-09",
-                    "date_posted": "2024-04-10",
+                    "date_transacted": "2024-04-10",
+                    "date_posted": "2024-04-11",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-29",
-                    "date_posted": "2024-03-30",
+                    "date_transacted": "2024-03-30",
+                    "date_posted": "2024-03-31",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
