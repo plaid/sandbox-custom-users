@@ -55,8 +55,7 @@ def find_most_recent_date(data, most_recent_date=datetime.min):
                     # In case the value is not a valid date string or is not a string
                     pass
             else:
-                most_recent_date = find_most_recent_date(
-                    value, most_recent_date)
+                most_recent_date = find_most_recent_date(value, most_recent_date)
     elif isinstance(data, list):
         for item in data:
             most_recent_date = find_most_recent_date(item, most_recent_date)
@@ -68,12 +67,11 @@ sandbox_user_files = [
     "assets/assets_credit_categories.json",
     "assets/assets_custom_user.json",
     "assets/assets_custom_user2.json",
+    "income/bank_income_basic.json",
     "income/bank_income_custom_user_5_income_sources.json",
     "income/bank_income_custom_user_6+_employers_in_90_days.json",
     "income/bank_income_custom_user_random_income_over_90_days.json",
-    "income/income_custom_user.json",
     "income/payroll_income_custom_user.json",
-    "income/payrollUser.json",
     "income/selfEmployedGiguser.json",
     "income/SMBCustomUser.json",
     "income/SSAuser.json",
