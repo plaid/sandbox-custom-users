@@ -1,0 +1,103 @@
+{
+  "paystub": {
+    "employee": {
+      "name": "Chip Hazard",
+      "address": {
+        "city": "Burbank",
+        "region": "CA",
+        "street": "411 N Hollywood Way",
+        "postal_code": "91505",
+        "country": "US"
+      },
+      "taxpayer_id": {
+        "id_type": "SSN",
+        "id_mask": "7512"
+      },
+      "marital_status": "SINGLE"
+    },
+    "employer": {
+      "name": "Heartland Toy Company",
+      "address": {
+        "city": "Burbank",
+        "region": "CA",
+        "street": "411 N Hollywood Way",
+        "postal_code": "91505",
+        "country": "US"
+      }
+    },
+    "pay_period_details": {
+      "start_date": "2024-03-07",
+      "end_date": "2024-03-23",
+      "pay_day": "2024-03-23",
+      "gross_earnings": 1000.39,
+      "check_amount": 499.28
+    },
+    "earnings": {
+      "total": {
+        "hours": 25,
+        "currency": "USD"
+      },
+      "breakdown": [
+        {
+          "canonical_description": "REGULAR_PAY",
+          "current_amount": 1000.39,
+          "description": "REGULAR_PAY",
+          "currency": "USD",
+          "ytd_amount": 3000.39,
+          "hours": 25
+        }
+      ]
+    },
+    "deductions": {
+      "total": {
+        "current_amount": 200.15,
+        "currency": "USD",
+        "ytd_amount": 1000.15
+      },
+      "breakdown": [
+        {
+          "current_amount": 200.15,
+          "description": "401K",
+          "currency": "USD",
+          "ytd_amount": 1000.15
+        }
+      ]
+    },
+    "net_pay": {
+      "description": "TOTAL NET PAY",
+      "currency": "USD",
+      "ytd_amount": 1500.00
+    }
+  },
+  "single_document_risk_signals": {
+    "risk_summary": {
+      "risk_score": 70
+    },
+    "risk_signals": [
+      {
+        "actual_value": "2.00",
+        "expected_value": "25.09",
+        "field": null,
+        "signal_description": null,
+        "has_fraud_risk": true,
+        "type": "MASKING",
+        "page_number": 1,
+        "institution_metadata": {
+          "item_id": "testItemID"
+        }
+      },
+      {
+        "actual_value": null,
+        "expected_value": null,
+        "field": null,
+        "signal_description": "Creation date and modification date do not match",
+        "has_fraud_risk": true,
+        "institution_metadata": null,
+        "type": "METADATA_DATES_OUTSIDE_WINDOW",
+        "page_number": 0
+      }
+    ]
+  },
+  "ocr_status": "SUCCESS",
+  "risk_signals_status": "SUCCESS"
+}

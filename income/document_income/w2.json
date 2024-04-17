@@ -1,0 +1,59 @@
+{
+  "w2":  {
+    "employee": {
+      "name": "Chip Hazard",
+      "address": {
+        "city": "Burbank",
+        "region": "CA",
+        "street": "411 N Hollywood Way",
+        "postal_code": "91505",
+        "country": "US"
+      }
+    },
+    "employer": {
+      "name": "Heartland Toy Company",
+      "address": {
+        "city": "Burbank",
+        "region": "CA",
+        "street": "411 N Hollywood Way",
+        "postal_code": "91505",
+        "country": "US"
+      }
+    },
+    "tax_year": 2023,
+    "employer_id_number": "12-1234567",
+    "wages_tips_other_comp": 1000,
+    "federal_income_tax_withheld": 1000,
+    "social_security_wages": 1000,
+    "social_security_tax_withheld": 1000,
+    "medicare_wages_and_tips": 1000,
+    "medicare_tax_withheld": 1000,
+    "social_security_tips": 1000,
+    "allocated_tips": 1000,
+    "box_9": "box9",
+    "dependent_care_benefits": 1000,
+    "nonqualified_plans": 1000,
+    "statutory_employee": true,
+    "retirement_plan": true,
+    "third_party_sick_pay": true,
+    "other": "other",
+    "box_12": [
+      {
+        "code": "AA",
+        "amount": 200
+      }
+    ],
+    "state_and_local_wages": [
+      {
+        "state": "UT",
+        "employer_state_id_number": "11111111111AAA",
+        "state_wages_tips": 200,
+        "state_income_tax": 200,
+        "local_wages_tips": 200,
+        "local_income_tax": 200,
+        "locality_name": "local"
+      }
+    ]
+  },
+  "ocr_status": "SUCCESS"
+}
