@@ -26,9 +26,9 @@
             }
         },
         "pay_period_details": {
-            "start_date": "2024-06-02",
-            "end_date": "2024-06-18",
-            "pay_day": "2024-06-18",
+            "start_date": "2024-06-03",
+            "end_date": "2024-06-19",
+            "pay_day": "2024-06-19",
             "gross_earnings": 1000.39,
             "check_amount": 499.28
         },
