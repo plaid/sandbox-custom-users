@@ -13,6 +13,9 @@ The dates in these test files are automatically updated daily such that the most
 
 If you want to customize these files further, see the [Custom User configuration object schema](https://plaid.com/docs/sandbox/user-custom/#configuration-object-schema) for detailed documentation on available options and fields.
 
+> [!WARNING]
+> At OAuth institutions, certain less frequently used customized fields may be overridden by the default values after the Link flow has completed. If this occurs, retry the configuration using a non-OAuth institution.
+
 # Contributing
 
 We encourage contributions to this repo. Feel free to submit and add your own test users. Important: never contribute real user data, even if it has been anonymized, unless it is your own, personal data that you have the right to share (i.e., not data belonging to a customer of your service).
