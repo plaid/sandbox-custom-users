@@ -22,15 +22,15 @@
             },
             "transactions": [
                 {
-                    "date_transacted": "2024-10-19",
-                    "date_posted": "2024-10-20",
+                    "date_transacted": "2024-10-20",
+                    "date_posted": "2024-10-21",
                     "amount": 292.29,
                     "description": "DEBIT CRD AUTOPAY 98712 000000000098712 KIUYPKFWRSGT YOTLKJHAUXL C",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-08-22",
-                    "date_posted": "2024-08-23",
+                    "date_transacted": "2024-08-23",
+                    "date_posted": "2024-08-24",
                     "amount": 1523.52,
                     "description": "CREDIT CRD AUTOPAY 29812 000000000098123 SPKFGKABCRGK DUXZYAYOTAL X",
                     "currency": "USD"
