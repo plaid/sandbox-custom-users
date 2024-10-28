@@ -42,7 +42,7 @@
             "holdings": [
                 {
                     "institution_price": 140.4,
-                    "institution_price_as_of": "2024-08-08",
+                    "institution_price_as_of": "2024-08-09",
                     "quantity": 12,
                     "currency": "USD",
                     "security": {
@@ -52,7 +52,7 @@
                 },
                 {
                     "institution_price": 10.43,
-                    "institution_price_as_of": "2023-11-08",
+                    "institution_price_as_of": "2023-11-09",
                     "cost_basis": 10.43,
                     "quantity": 10,
                     "currency": "USD",
@@ -63,7 +63,7 @@
                 },
                 {
                     "institution_price": 2228.23,
-                    "institution_price_as_of": "2023-12-13",
+                    "institution_price_as_of": "2023-12-14",
                     "cost_basis": 2228.23,
                     "quantity": 8,
                     "currency": "USD",
@@ -74,7 +74,7 @@
                 },
                 {
                     "institution_price": 91.78,
-                    "institution_price_as_of": "2023-12-29",
+                    "institution_price_as_of": "2023-12-30",
                     "cost_basis": 91.78,
                     "quantity": 17,
                     "currency": "USD",
@@ -85,7 +85,7 @@
                 },
                 {
                     "institution_price": 108.6,
-                    "institution_price_as_of": "2024-02-18",
+                    "institution_price_as_of": "2024-02-19",
                     "cost_basis": 108.6,
                     "quantity": 100,
                     "currency": "USD",
@@ -96,7 +96,7 @@
                 },
                 {
                     "institution_price": 369.82,
-                    "institution_price_as_of": "2024-03-16",
+                    "institution_price_as_of": "2024-03-17",
                     "cost_basis": 29.36,
                     "quantity": 5,
                     "currency": "USD",
@@ -107,7 +107,7 @@
                 },
                 {
                     "institution_price": 19999.54,
-                    "institution_price_as_of": "2024-03-29",
+                    "institution_price_as_of": "2024-03-30",
                     "cost_basis": 120.03,
                     "quantity": 0.00293644,
                     "currency": "USD",
@@ -118,7 +118,7 @@
                 },
                 {
                     "institution_price": 13.35,
-                    "institution_price_as_of": "2024-10-27",
+                    "institution_price_as_of": "2024-10-28",
                     "cost_basis": 13.35,
                     "quantity": 20,
                     "currency": "USD",
@@ -129,7 +129,7 @@
                 },
                 {
                     "institution_price": 495.72,
-                    "institution_price_as_of": "2024-04-08",
+                    "institution_price_as_of": "2024-04-09",
                     "cost_basis": 495.72,
                     "quantity": 12,
                     "currency": "USD",
@@ -140,7 +140,7 @@
                 },
                 {
                     "institution_price": 11.43,
-                    "institution_price_as_of": "2024-04-25",
+                    "institution_price_as_of": "2024-04-26",
                     "cost_basis": 11.43,
                     "quantity": 20,
                     "currency": "USD",
@@ -151,7 +151,7 @@
                 },
                 {
                     "institution_price": 670.81,
-                    "institution_price_as_of": "2024-03-27",
+                    "institution_price_as_of": "2024-03-28",
                     "cost_basis": 670.81,
                     "quantity": 23,
                     "currency": "USD",
@@ -162,7 +162,7 @@
                 },
                 {
                     "institution_price": 5.51,
-                    "institution_price_as_of": "2023-11-01",
+                    "institution_price_as_of": "2023-11-02",
                     "cost_basis": 5.51,
                     "quantity": 9,
                     "currency": "USD",
@@ -173,7 +173,7 @@
                 },
                 {
                     "institution_price": 114.07,
-                    "institution_price_as_of": "2023-12-03",
+                    "institution_price_as_of": "2023-12-04",
                     "cost_basis": 114.07,
                     "quantity": 3,
                     "currency": "USD",
@@ -184,7 +184,7 @@
                 },
                 {
                     "institution_price": 70.04,
-                    "institution_price_as_of": "2024-01-13",
+                    "institution_price_as_of": "2024-01-14",
                     "cost_basis": 70.04,
                     "quantity": 19,
                     "currency": "USD",
@@ -195,7 +195,7 @@
                 },
                 {
                     "institution_price": 142.99,
-                    "institution_price_as_of": "2024-02-21",
+                    "institution_price_as_of": "2024-02-22",
                     "cost_basis": 142.99,
                     "quantity": 30,
                     "currency": "USD",
@@ -206,7 +206,7 @@
                 },
                 {
                     "institution_price": 78.85,
-                    "institution_price_as_of": "2024-03-04",
+                    "institution_price_as_of": "2024-03-05",
                     "cost_basis": 78.85,
                     "quantity": 11,
                     "currency": "USD",
@@ -217,7 +217,7 @@
                 },
                 {
                     "institution_price": 20.83,
-                    "institution_price_as_of": "2024-04-13",
+                    "institution_price_as_of": "2024-04-14",
                     "cost_basis": 20.83,
                     "quantity": 13,
                     "currency": "USD",
@@ -229,7 +229,7 @@
             ],
             "investment_transactions": [
                 {
-                    "date": "2024-07-29",
+                    "date": "2024-07-30",
                     "name": "buy stock",
                     "quantity": 10,
                     "price": 10,
@@ -242,7 +242,7 @@
                     }
                 },
                 {
-                    "date": "2024-08-12",
+                    "date": "2024-08-13",
                     "name": "buy stock",
                     "quantity": 15,
                     "price": 10,
@@ -255,7 +255,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-07",
+                    "date": "2024-04-08",
                     "name": "buy stock",
                     "quantity": 10,
                     "price": 2898.32,
@@ -268,7 +268,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-12",
+                    "date": "2024-04-13",
                     "name": "buy stock",
                     "quantity": 160,
                     "price": 121.45,
@@ -281,7 +281,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-09",
+                    "date": "2024-04-10",
                     "name": "buy stock",
                     "quantity": 29,
                     "price": 120.03,
@@ -294,7 +294,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-13",
+                    "date": "2024-04-14",
                     "name": "buy stock",
                     "quantity": 23,
                     "price": 125.03,
@@ -307,7 +307,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-17",
+                    "date": "2024-04-18",
                     "name": "buy stock",
                     "quantity": 36,
                     "price": 120.03,
@@ -320,7 +320,7 @@
                     }
                 },
                 {
-                    "date": "2024-03-30",
+                    "date": "2024-03-31",
                     "name": "buy stock in cash",
                     "quantity": 12,
                     "price": 80,
@@ -333,7 +333,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-08",
+                    "date": "2024-04-09",
                     "name": "buy stock in cash",
                     "quantity": 25,
                     "price": 110,
@@ -346,7 +346,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-18",
+                    "date": "2024-04-19",
                     "name": "buy stock in cash",
                     "quantity": 30,
                     "price": 170,
@@ -359,7 +359,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-11",
+                    "date": "2024-04-12",
                     "name": "buy stock in cash",
                     "quantity": 10,
                     "price": 200,
@@ -372,7 +372,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-18",
+                    "date": "2024-04-19",
                     "name": "buy stock in cash-fee",
                     "quantity": 30,
                     "price": 170,
@@ -385,7 +385,7 @@
                     }
                 },
                 {
-                    "date": "2024-03-30",
+                    "date": "2024-03-31",
                     "name": "buy stock in cash",
                     "quantity": 12,
                     "price": 80,
@@ -398,7 +398,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-08",
+                    "date": "2024-04-09",
                     "name": "buy stock in cash",
                     "quantity": 25,
                     "price": 110,
@@ -411,7 +411,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-24",
+                    "date": "2024-04-25",
                     "name": "transfer amount",
                     "quantity": 12,
                     "price": 125.98,
@@ -424,7 +424,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-25",
+                    "date": "2024-04-26",
                     "name": "transfer amount",
                     "quantity": 7,
                     "price": 150.23,
@@ -437,7 +437,7 @@
                     }
                 },
                 {
-                    "date": "2024-04-26",
+                    "date": "2024-04-27",
                     "name": "transfer amount",
                     "quantity": 10,
                     "price": 170,
