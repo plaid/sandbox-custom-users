@@ -34,9 +34,9 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2024-10-05",
-                            "end_date": "2024-10-16",
-                            "pay_day": "2024-10-19",
+                            "start_date": "2024-10-06",
+                            "end_date": "2024-10-17",
+                            "pay_day": "2024-10-20",
                             "gross_earnings": 1000.39,
                             "check_amount": 499.28
                         }
@@ -64,9 +64,9 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2024-10-19",
-                            "end_date": "2024-10-30",
-                            "pay_day": "2024-11-02",
+                            "start_date": "2024-10-20",
+                            "end_date": "2024-10-31",
+                            "pay_day": "2024-11-03",
                             "gross_earnings": 800,
                             "check_amount": 300
                         }
