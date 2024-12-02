@@ -6,29 +6,29 @@
             "starting_balance": 150000,
             "transactions": [
                 {
-                    "date_transacted": "2024-11-29",
-                    "date_posted": "2024-11-29",
+                    "date_transacted": "2024-11-30",
+                    "date_posted": "2024-11-30",
                     "amount": 10000,
                     "description": "Employee Payroll",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-29",
-                    "date_posted": "2024-11-29",
+                    "date_transacted": "2024-11-30",
+                    "date_posted": "2024-11-30",
                     "amount": 5000,
                     "description": "Office Rental",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-29",
-                    "date_posted": "2024-11-30",
+                    "date_transacted": "2024-11-30",
+                    "date_posted": "2024-12-01",
                     "amount": -15000,
                     "description": "Transfer from Savings",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-01",
-                    "date_posted": "2024-12-01",
+                    "date_transacted": "2024-12-02",
+                    "date_posted": "2024-12-02",
                     "amount": 15000,
                     "description": "United States Gypsum Corporation - Drywall",
                     "currency": "USD"
