@@ -6,240 +6,240 @@
             "starting_balance": 30000,
             "transactions": [
                 {
-                    "date_transacted": "2024-08-16",
-                    "date_posted": "2024-08-17",
+                    "date_transacted": "2024-08-17",
+                    "date_posted": "2024-08-18",
                     "amount": -1600,
                     "description": "Self Payout From Business",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-16",
-                    "date_posted": "2023-12-18",
+                    "date_transacted": "2024-12-17",
+                    "date_posted": "2023-12-19",
                     "amount": 5,
                     "description": "Overdraft fee",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-16",
-                    "date_posted": "2023-12-18",
+                    "date_transacted": "2024-12-17",
+                    "date_posted": "2023-12-19",
                     "amount": 12,
                     "description": "NSF fee",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-31",
-                    "date_posted": "2024-08-01",
+                    "date_transacted": "2024-08-01",
+                    "date_posted": "2024-08-02",
                     "amount": -1600,
                     "description": "Self Payout From Business",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-16",
-                    "date_posted": "2024-07-17",
+                    "date_transacted": "2024-07-17",
+                    "date_posted": "2024-07-18",
                     "amount": -1600,
                     "description": "Self Payout From Business",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-30",
-                    "date_posted": "2024-07-01",
+                    "date_transacted": "2024-07-01",
+                    "date_posted": "2024-07-02",
                     "amount": -1600,
                     "description": "Self Payout From Business",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-15",
-                    "date_posted": "2024-06-16",
+                    "date_transacted": "2024-06-16",
+                    "date_posted": "2024-06-17",
                     "amount": -1600,
                     "description": "Self Payout From Business",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-30",
-                    "date_posted": "2024-05-31",
+                    "date_transacted": "2024-05-31",
+                    "date_posted": "2024-06-01",
                     "amount": -1600,
                     "description": "Self Payout From Business",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-15",
-                    "date_posted": "2024-05-16",
+                    "date_transacted": "2024-05-16",
+                    "date_posted": "2024-05-17",
                     "amount": -1000,
                     "description": "Uber Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-30",
-                    "date_posted": "2024-05-01",
+                    "date_transacted": "2024-05-01",
+                    "date_posted": "2024-05-02",
                     "amount": -1000,
                     "description": "Uber Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-14",
-                    "date_posted": "2024-04-15",
+                    "date_transacted": "2024-04-15",
+                    "date_posted": "2024-04-16",
                     "amount": -1000,
                     "description": "Uber Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-30",
-                    "date_posted": "2024-03-31",
+                    "date_transacted": "2024-03-31",
+                    "date_posted": "2024-04-01",
                     "amount": -1000,
                     "description": "Uber Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-03-15",
-                    "date_posted": "2024-03-16",
+                    "date_transacted": "2024-03-16",
+                    "date_posted": "2024-03-17",
                     "amount": -1000,
                     "description": "Uber Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-02-29",
-                    "date_posted": "2024-03-01",
+                    "date_transacted": "2024-03-01",
+                    "date_posted": "2024-03-02",
                     "amount": -1000,
                     "description": "Uber Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-19",
-                    "date_posted": "2024-05-20",
+                    "date_transacted": "2024-05-20",
+                    "date_posted": "2024-05-21",
                     "amount": -1200,
                     "description": "Lyft Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-12",
-                    "date_posted": "2024-05-13",
+                    "date_transacted": "2024-05-13",
+                    "date_posted": "2024-05-14",
                     "amount": -1200,
                     "description": "Lyft Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-05",
-                    "date_posted": "2024-05-06",
+                    "date_transacted": "2024-05-06",
+                    "date_posted": "2024-05-07",
                     "amount": -1200,
                     "description": "Lyft Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-28",
-                    "date_posted": "2024-04-29",
+                    "date_transacted": "2024-04-29",
+                    "date_posted": "2024-04-30",
                     "amount": -1200,
                     "description": "Lyft Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-21",
-                    "date_posted": "2024-04-22",
+                    "date_transacted": "2024-04-22",
+                    "date_posted": "2024-04-23",
                     "amount": -1200,
                     "description": "Lyft Payout",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-14",
-                    "date_posted": "2024-04-15",
+                    "date_transacted": "2024-04-15",
+                    "date_posted": "2024-04-16",
                     "amount": -1200,
                     "description": "Lyft Payout",
                     "currency": "USD"
                 },
                 {
                     "amount": 6.33,
-                    "date_transacted": "2024-07-06",
-                    "date_posted": "2024-07-07",
+                    "date_transacted": "2024-07-07",
+                    "date_posted": "2024-07-08",
                     "currency": "USD",
                     "description": "Uber 072515 SF**POOL**"
                 },
                 {
                     "amount": 89.4,
-                    "date_transacted": "2024-07-19",
-                    "date_posted": "2024-07-20",
+                    "date_transacted": "2024-07-20",
+                    "date_posted": "2024-07-21",
                     "currency": "USD",
                     "description": "SparkFun"
                 },
                 {
                     "amount": 12,
-                    "date_transacted": "2024-07-20",
-                    "date_posted": "2024-07-21",
+                    "date_transacted": "2024-07-21",
+                    "date_posted": "2024-07-22",
                     "currency": "USD",
                     "description": "McDonalds #3322"
                 },
                 {
                     "amount": 4.33,
-                    "date_transacted": "2024-07-20",
-                    "date_posted": "2024-07-22",
+                    "date_transacted": "2024-07-21",
+                    "date_posted": "2024-07-23",
                     "currency": "USD",
                     "description": "Starbucks"
                 },
                 {
                     "amount": -500,
-                    "date_transacted": "2024-07-21",
-                    "date_posted": "2024-07-23",
+                    "date_transacted": "2024-07-22",
+                    "date_posted": "2024-07-24",
                     "currency": "USD",
                     "description": "United Airlines **** REFUND ****"
                 },
                 {
                     "amount": 5.4,
-                    "date_transacted": "2024-07-23",
-                    "date_posted": "2024-07-24",
+                    "date_transacted": "2024-07-24",
+                    "date_posted": "2024-07-25",
                     "currency": "USD",
                     "description": "Uber 063015 SF**POOL**"
                 },
                 {
                     "amount": -4.22,
-                    "date_transacted": "2024-07-18",
-                    "date_posted": "2024-07-20",
+                    "date_transacted": "2024-07-19",
+                    "date_posted": "2024-07-21",
                     "currency": "USD",
                     "description": "INTRST PYMNT"
                 },
                 {
                     "amount": 25,
-                    "date_transacted": "2024-07-23",
-                    "date_posted": "2024-07-24",
+                    "date_transacted": "2024-07-24",
+                    "date_posted": "2024-07-25",
                     "currency": "USD",
                     "description": "CREDIT CARD 3333 PAYMENT *//"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2024-07-02",
-                    "date_posted": "2024-07-04",
+                    "date_transacted": "2024-07-03",
+                    "date_posted": "2024-07-05",
                     "currency": "USD",
                     "description": "Madison Bicycle Shop"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2024-07-02",
-                    "date_posted": "2024-07-04",
+                    "date_transacted": "2024-07-03",
+                    "date_posted": "2024-07-05",
                     "currency": "USD",
                     "description": "KFC"
                 },
                 {
                     "amount": 2078.5,
-                    "date_transacted": "2024-07-02",
-                    "date_posted": "2024-07-03",
+                    "date_transacted": "2024-07-03",
+                    "date_posted": "2024-07-04",
                     "currency": "USD",
                     "description": "AUTOMATIC PAYMENT - THANK"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2024-07-03",
-                    "date_posted": "2024-07-04",
+                    "date_transacted": "2024-07-04",
+                    "date_posted": "2024-07-05",
                     "currency": "USD",
                     "description": "Tectra Inc"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2024-07-08",
-                    "date_posted": "2024-07-09",
+                    "date_transacted": "2024-07-09",
+                    "date_posted": "2024-07-10",
                     "currency": "USD",
                     "description": "United Airlines"
                 },
                 {
                     "amount": 78.5,
-                    "date_transacted": "2024-07-21",
-                    "date_posted": "2024-07-24",
+                    "date_transacted": "2024-07-22",
+                    "date_posted": "2024-07-25",
                     "currency": "USD",
                     "description": "Touchstone Climbing"
                 }
