@@ -26,9 +26,9 @@
             }
         },
         "pay_period_details": {
-            "start_date": "2025-01-16",
-            "end_date": "2025-02-01",
-            "pay_day": "2025-02-01",
+            "start_date": "2025-01-17",
+            "end_date": "2025-02-02",
+            "pay_day": "2025-02-02",
             "gross_earnings": 1000.39,
             "check_amount": 499.28
         },
