@@ -225,7 +225,18 @@
                         "ticker_symbol": "T",
                         "currency": "USD"
                     }
-                }
+                },
+                {
+                  "institution_price": 5.9,
+                  "institution_price_as_of": "2024-05-07",
+                  "cost_basis": 5.9,
+                  "quantity": 20,
+                  "currency": "USD",
+                  "security": {
+                    "ticker_symbol": "F241108C00005000",
+                    "currency": "USD"
+              },
+            }
             ],
             "investment_transactions": [
                 {
@@ -238,6 +249,19 @@
                     "currency": "USD",
                     "security": {
                         "ticker_symbol": "PLAID",
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "date": "2025-01-07",
+                    "name": "buy options",
+                    "quantity": 10,
+                    "price": 10,
+                    "fees": 20,
+                    "type": "buy",
+                    "currency": "USD",
+                    "security": {
+                        "ticker_symbol": "F241108C00005000",
                         "currency": "USD"
                     }
                 },
