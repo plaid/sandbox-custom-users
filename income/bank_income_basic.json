@@ -5,520 +5,520 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2025-04-24",
-                    "date_posted": "2025-04-25",
+                    "date_transacted": "2025-04-25",
+                    "date_posted": "2025-04-26",
                     "amount": 1745.32,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-03-24",
-                    "date_posted": "2025-03-25",
+                    "date_transacted": "2025-03-25",
+                    "date_posted": "2025-03-26",
                     "amount": 1098.42,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-01-22",
-                    "date_posted": "2025-01-23",
+                    "date_transacted": "2025-01-23",
+                    "date_posted": "2025-01-24",
                     "amount": 900,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-23",
-                    "date_posted": "2024-12-24",
+                    "date_transacted": "2024-12-24",
+                    "date_posted": "2024-12-25",
                     "amount": 1325.9,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-22",
-                    "date_posted": "2024-11-23",
+                    "date_transacted": "2024-11-23",
+                    "date_posted": "2024-11-24",
                     "amount": 800.32,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-10-22",
-                    "date_posted": "2024-10-23",
+                    "date_transacted": "2024-10-23",
+                    "date_posted": "2024-10-24",
                     "amount": 659.43,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-09-22",
-                    "date_posted": "2024-09-23",
+                    "date_transacted": "2024-09-23",
+                    "date_posted": "2024-09-24",
                     "amount": 700,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-08-22",
-                    "date_posted": "2024-08-23",
+                    "date_transacted": "2024-08-23",
+                    "date_posted": "2024-08-24",
                     "amount": 516.23,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-23",
-                    "date_posted": "2024-07-24",
+                    "date_transacted": "2024-07-24",
+                    "date_posted": "2024-07-25",
                     "amount": 650,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-22",
-                    "date_posted": "2024-06-23",
+                    "date_transacted": "2024-06-23",
+                    "date_posted": "2024-06-24",
                     "amount": 720,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-25",
-                    "date_posted": "2024-05-26",
+                    "date_transacted": "2024-05-26",
+                    "date_posted": "2024-05-27",
                     "amount": 534,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-24",
-                    "date_posted": "2024-04-25",
+                    "date_transacted": "2024-04-25",
+                    "date_posted": "2024-04-26",
                     "amount": 1020.43,
                     "description": "Discover credit card payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-04-10",
-                    "date_posted": "2025-04-11",
+                    "date_transacted": "2025-04-11",
+                    "date_posted": "2025-04-12",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-03-10",
-                    "date_posted": "2025-03-11",
+                    "date_transacted": "2025-03-11",
+                    "date_posted": "2025-03-12",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-01-08",
-                    "date_posted": "2025-01-09",
+                    "date_transacted": "2025-01-09",
+                    "date_posted": "2025-01-10",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-09",
-                    "date_posted": "2024-12-10",
+                    "date_transacted": "2024-12-10",
+                    "date_posted": "2024-12-11",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-08",
-                    "date_posted": "2024-11-09",
+                    "date_transacted": "2024-11-09",
+                    "date_posted": "2024-11-10",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-10-08",
-                    "date_posted": "2024-10-09",
+                    "date_transacted": "2024-10-09",
+                    "date_posted": "2024-10-10",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-09-08",
-                    "date_posted": "2024-09-09",
+                    "date_transacted": "2024-09-09",
+                    "date_posted": "2024-09-10",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-08-08",
-                    "date_posted": "2024-08-09",
+                    "date_transacted": "2024-08-09",
+                    "date_posted": "2024-08-10",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-09",
-                    "date_posted": "2024-07-10",
+                    "date_transacted": "2024-07-10",
+                    "date_posted": "2024-07-11",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-08",
-                    "date_posted": "2024-06-09",
+                    "date_transacted": "2024-06-09",
+                    "date_posted": "2024-06-10",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-11",
-                    "date_posted": "2024-05-12",
+                    "date_transacted": "2024-05-12",
+                    "date_posted": "2024-05-13",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-10",
-                    "date_posted": "2024-04-11",
+                    "date_transacted": "2024-04-11",
+                    "date_posted": "2024-04-12",
                     "amount": 267,
                     "description": "Student Loan Repayment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-04-10",
-                    "date_posted": "2025-04-11",
+                    "date_transacted": "2025-04-11",
+                    "date_posted": "2025-04-12",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-03-10",
-                    "date_posted": "2025-03-11",
+                    "date_transacted": "2025-03-11",
+                    "date_posted": "2025-03-12",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-01-08",
-                    "date_posted": "2025-01-09",
+                    "date_transacted": "2025-01-09",
+                    "date_posted": "2025-01-10",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-09",
-                    "date_posted": "2024-12-10",
+                    "date_transacted": "2024-12-10",
+                    "date_posted": "2024-12-11",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-08",
-                    "date_posted": "2024-11-09",
+                    "date_transacted": "2024-11-09",
+                    "date_posted": "2024-11-10",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-10-08",
-                    "date_posted": "2024-10-09",
+                    "date_transacted": "2024-10-09",
+                    "date_posted": "2024-10-10",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-09-08",
-                    "date_posted": "2024-09-09",
+                    "date_transacted": "2024-09-09",
+                    "date_posted": "2024-09-10",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-08-08",
-                    "date_posted": "2024-08-09",
+                    "date_transacted": "2024-08-09",
+                    "date_posted": "2024-08-10",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-09",
-                    "date_posted": "2024-07-10",
+                    "date_transacted": "2024-07-10",
+                    "date_posted": "2024-07-11",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-08",
-                    "date_posted": "2024-06-09",
+                    "date_transacted": "2024-06-09",
+                    "date_posted": "2024-06-10",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-11",
-                    "date_posted": "2024-05-12",
+                    "date_transacted": "2024-05-12",
+                    "date_posted": "2024-05-13",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-10",
-                    "date_posted": "2024-04-11",
+                    "date_transacted": "2024-04-11",
+                    "date_posted": "2024-04-12",
                     "amount": 524,
                     "description": "Auto Loan Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-04-10",
-                    "date_posted": "2025-04-11",
+                    "date_transacted": "2025-04-11",
+                    "date_posted": "2025-04-12",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-03-10",
-                    "date_posted": "2025-03-11",
+                    "date_transacted": "2025-03-11",
+                    "date_posted": "2025-03-12",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-01-08",
-                    "date_posted": "2025-01-09",
+                    "date_transacted": "2025-01-09",
+                    "date_posted": "2025-01-10",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-09",
-                    "date_posted": "2024-12-10",
+                    "date_transacted": "2024-12-10",
+                    "date_posted": "2024-12-11",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-08",
-                    "date_posted": "2024-11-09",
+                    "date_transacted": "2024-11-09",
+                    "date_posted": "2024-11-10",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-10-08",
-                    "date_posted": "2024-10-09",
+                    "date_transacted": "2024-10-09",
+                    "date_posted": "2024-10-10",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-09-08",
-                    "date_posted": "2024-09-09",
+                    "date_transacted": "2024-09-09",
+                    "date_posted": "2024-09-10",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-08-08",
-                    "date_posted": "2024-08-09",
+                    "date_transacted": "2024-08-09",
+                    "date_posted": "2024-08-10",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-09",
-                    "date_posted": "2024-07-10",
+                    "date_transacted": "2024-07-10",
+                    "date_posted": "2024-07-11",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-08",
-                    "date_posted": "2024-06-09",
+                    "date_transacted": "2024-06-09",
+                    "date_posted": "2024-06-10",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-11",
-                    "date_posted": "2024-05-12",
+                    "date_transacted": "2024-05-12",
+                    "date_posted": "2024-05-13",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-10",
-                    "date_posted": "2024-04-11",
+                    "date_transacted": "2024-04-11",
+                    "date_posted": "2024-04-12",
                     "amount": 2745,
                     "description": "Mortgage Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-03-24",
-                    "date_posted": "2025-03-25",
+                    "date_transacted": "2025-03-25",
+                    "date_posted": "2025-03-26",
                     "amount": -5500,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-02-23",
-                    "date_posted": "2025-02-24",
+                    "date_transacted": "2025-02-24",
+                    "date_posted": "2025-02-25",
                     "amount": -5500,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-01-23",
-                    "date_posted": "2025-01-24",
+                    "date_transacted": "2025-01-24",
+                    "date_posted": "2025-01-25",
                     "amount": -5500,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-12-23",
-                    "date_posted": "2024-12-24",
+                    "date_transacted": "2024-12-24",
+                    "date_posted": "2024-12-25",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-11-23",
-                    "date_posted": "2024-11-24",
+                    "date_transacted": "2024-11-24",
+                    "date_posted": "2024-11-25",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-10-23",
-                    "date_posted": "2024-10-24",
+                    "date_transacted": "2024-10-24",
+                    "date_posted": "2024-10-25",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-09-23",
-                    "date_posted": "2024-09-24",
+                    "date_transacted": "2024-09-24",
+                    "date_posted": "2024-09-25",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-08-23",
-                    "date_posted": "2024-08-24",
+                    "date_transacted": "2024-08-24",
+                    "date_posted": "2024-08-25",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-07-24",
-                    "date_posted": "2024-07-25",
+                    "date_transacted": "2024-07-25",
+                    "date_posted": "2024-07-26",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-06-23",
-                    "date_posted": "2024-06-24",
+                    "date_transacted": "2024-06-24",
+                    "date_posted": "2024-06-25",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-05-26",
-                    "date_posted": "2024-05-27",
+                    "date_transacted": "2024-05-27",
+                    "date_posted": "2024-05-28",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-04-25",
-                    "date_posted": "2024-04-26",
+                    "date_transacted": "2024-04-26",
+                    "date_posted": "2024-04-27",
                     "amount": -5000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
                     "amount": 6.33,
-                    "date_transacted": "2024-11-14",
-                    "date_posted": "2024-11-15",
+                    "date_transacted": "2024-11-15",
+                    "date_posted": "2024-11-16",
                     "currency": "USD",
                     "description": "Uber 072515 SF**POOL**"
                 },
                 {
                     "amount": 89.4,
-                    "date_transacted": "2024-11-27",
-                    "date_posted": "2024-11-28",
+                    "date_transacted": "2024-11-28",
+                    "date_posted": "2024-11-29",
                     "currency": "USD",
                     "description": "SparkFun"
                 },
                 {
                     "amount": 12,
-                    "date_transacted": "2024-11-28",
-                    "date_posted": "2024-11-29",
+                    "date_transacted": "2024-11-29",
+                    "date_posted": "2024-11-30",
                     "currency": "USD",
                     "description": "McDonalds #3322"
                 },
                 {
                     "amount": 4.33,
-                    "date_transacted": "2024-11-28",
-                    "date_posted": "2024-11-30",
+                    "date_transacted": "2024-11-29",
+                    "date_posted": "2024-12-01",
                     "currency": "USD",
                     "description": "Starbucks"
                 },
                 {
                     "amount": -500,
-                    "date_transacted": "2024-11-29",
-                    "date_posted": "2024-12-01",
+                    "date_transacted": "2024-11-30",
+                    "date_posted": "2024-12-02",
                     "currency": "USD",
                     "description": "United Airlines **** REFUND ****"
                 },
                 {
                     "amount": 5.4,
-                    "date_transacted": "2024-12-01",
-                    "date_posted": "2024-12-02",
+                    "date_transacted": "2024-12-02",
+                    "date_posted": "2024-12-03",
                     "currency": "USD",
                     "description": "Uber 063015 SF**POOL**"
                 },
                 {
                     "amount": -4.22,
-                    "date_transacted": "2024-11-26",
-                    "date_posted": "2024-11-28",
+                    "date_transacted": "2024-11-27",
+                    "date_posted": "2024-11-29",
                     "currency": "USD",
                     "description": "INTRST PYMNT"
                 },
                 {
                     "amount": 25,
-                    "date_transacted": "2024-12-01",
-                    "date_posted": "2024-12-02",
+                    "date_transacted": "2024-12-02",
+                    "date_posted": "2024-12-03",
                     "currency": "USD",
                     "description": "CREDIT CARD 3333 PAYMENT *//"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2024-11-10",
-                    "date_posted": "2024-11-12",
+                    "date_transacted": "2024-11-11",
+                    "date_posted": "2024-11-13",
                     "currency": "USD",
                     "description": "Madison Bicycle Shop"
                 },
                 {
                     "amount": 50,
-                    "date_transacted": "2024-11-10",
-                    "date_posted": "2024-11-12",
+                    "date_transacted": "2024-11-11",
+                    "date_posted": "2024-11-13",
                     "currency": "USD",
                     "description": "KFC"
                 },
                 {
                     "amount": 2078.5,
-                    "date_transacted": "2024-11-10",
-                    "date_posted": "2024-11-11",
+                    "date_transacted": "2024-11-11",
+                    "date_posted": "2024-11-12",
                     "currency": "USD",
                     "description": "AUTOMATIC PAYMENT - THANK"
                 },
                 {
                     "amount": 400,
-                    "date_transacted": "2024-11-11",
-                    "date_posted": "2024-11-12",
+                    "date_transacted": "2024-11-12",
+                    "date_posted": "2024-11-13",
                     "currency": "USD",
                     "description": "Tectra Inc"
                 },
                 {
                     "amount": 500,
-                    "date_transacted": "2024-11-16",
-                    "date_posted": "2024-11-17",
+                    "date_transacted": "2024-11-17",
+                    "date_posted": "2024-11-18",
                     "currency": "USD",
                     "description": "United Airlines"
                 },
                 {
                     "amount": 78.5,
-                    "date_transacted": "2024-11-29",
-                    "date_posted": "2024-12-02",
+                    "date_transacted": "2024-11-30",
+                    "date_posted": "2024-12-03",
                     "currency": "USD",
                     "description": "Touchstone Climbing"
                 }
