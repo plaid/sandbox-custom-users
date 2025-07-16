@@ -34,9 +34,9 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2025-06-17",
-                            "end_date": "2025-06-28",
-                            "pay_day": "2025-07-01",
+                            "start_date": "2025-06-18",
+                            "end_date": "2025-06-29",
+                            "pay_day": "2025-07-02",
                             "gross_earnings": 1000.39,
                             "check_amount": 499.28
                         }
@@ -64,9 +64,9 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2025-07-01",
-                            "end_date": "2025-07-12",
-                            "pay_day": "2025-07-15",
+                            "start_date": "2025-07-02",
+                            "end_date": "2025-07-13",
+                            "pay_day": "2025-07-16",
                             "gross_earnings": 800,
                             "check_amount": 300
                         }
