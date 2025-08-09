@@ -26,9 +26,9 @@
             }
         },
         "pay_period_details": {
-            "start_date": "2025-07-23",
-            "end_date": "2025-08-08",
-            "pay_day": "2025-08-08",
+            "start_date": "2025-07-24",
+            "end_date": "2025-08-09",
+            "pay_day": "2025-08-09",
             "gross_earnings": 1000.39,
             "check_amount": 499.28
         },
