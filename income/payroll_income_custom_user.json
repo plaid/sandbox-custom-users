@@ -34,9 +34,9 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2025-09-23",
-                            "end_date": "2025-10-04",
-                            "pay_day": "2025-10-07",
+                            "start_date": "2025-09-24",
+                            "end_date": "2025-10-05",
+                            "pay_day": "2025-10-08",
                             "gross_earnings": 1000.39,
                             "check_amount": 499.28
                         }
@@ -64,9 +64,9 @@
                             }
                         ],
                         "pay_period_details": {
-                            "start_date": "2025-10-07",
-                            "end_date": "2025-10-18",
-                            "pay_day": "2025-10-21",
+                            "start_date": "2025-10-08",
+                            "end_date": "2025-10-19",
+                            "pay_day": "2025-10-22",
                             "gross_earnings": 800,
                             "check_amount": 300
                         }
