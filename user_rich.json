@@ -1,0 +1,63 @@
+{
+    "override_accounts": [
+        {
+            "type": "depository",
+            "subtype": "checking",
+            "starting_balance": 1500000,
+            "currency": "USD",
+            "meta": {
+                "name": "IOLTA Trust Account",
+                "official_name": "IOLTA Trust Account"
+            },
+            "transactions": [
+                {
+                    "date_transacted": "2026-01-27",
+                    "date_posted": "2026-01-27",
+                    "amount": -800000,
+                    "description": "Client Trust Deposit - Matter 004",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-01-20",
+                    "date_posted": "2026-01-20",
+                    "amount": -400000,
+                    "description": "Client Trust Deposit - Matter 003",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-13",
+                    "amount": -200000,
+                    "description": "Client Trust Deposit - Matter 002",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-01-06",
+                    "date_posted": "2026-01-06",
+                    "amount": -100000,
+                    "description": "Client Trust Deposit - Matter 001",
+                    "currency": "USD"
+                }
+            ]
+        },
+        {
+            "type": "depository",
+            "subtype": "checking",
+            "starting_balance": 1000000,
+            "currency": "USD",
+            "meta": {
+                "name": "Operational",
+                "official_name": "Operational Account"
+            },
+            "transactions": [
+                {
+                    "date_transacted": "2026-01-27",
+                    "date_posted": "2026-01-27",
+                    "amount": -1000000,
+                    "description": "Operating Funds Deposit",
+                    "currency": "USD"
+                }
+            ]
+        }
+    ]
+}

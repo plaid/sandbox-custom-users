@@ -81,6 +81,8 @@ sandbox_user_files = [
     "investments/brokerage_custom_user.json",
     "transactions/business_account.json",
     "transactions/transactions_checking+savings_custom_user.json",
+    "user_rich.json",
+    "user_poor.json",
 ]
 
 
