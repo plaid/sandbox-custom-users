@@ -42,7 +42,7 @@
             "holdings": [
                 {
                     "institution_price": 140.4,
-                    "institution_price_as_of": "2025-11-09",
+                    "institution_price_as_of": "2025-11-10",
                     "quantity": 12,
                     "currency": "USD",
                     "security": {
@@ -52,7 +52,7 @@
                 },
                 {
                     "institution_price": 10.43,
-                    "institution_price_as_of": "2025-02-08",
+                    "institution_price_as_of": "2025-02-09",
                     "cost_basis": 10.43,
                     "quantity": 10,
                     "currency": "USD",
@@ -63,7 +63,7 @@
                 },
                 {
                     "institution_price": 2228.23,
-                    "institution_price_as_of": "2025-03-15",
+                    "institution_price_as_of": "2025-03-16",
                     "cost_basis": 2228.23,
                     "quantity": 8,
                     "currency": "USD",
@@ -74,7 +74,7 @@
                 },
                 {
                     "institution_price": 91.78,
-                    "institution_price_as_of": "2025-03-31",
+                    "institution_price_as_of": "2025-04-01",
                     "cost_basis": 91.78,
                     "quantity": 17,
                     "currency": "USD",
@@ -85,7 +85,7 @@
                 },
                 {
                     "institution_price": 108.6,
-                    "institution_price_as_of": "2025-05-21",
+                    "institution_price_as_of": "2025-05-22",
                     "cost_basis": 108.6,
                     "quantity": 100,
                     "currency": "USD",
@@ -96,7 +96,7 @@
                 },
                 {
                     "institution_price": 369.82,
-                    "institution_price_as_of": "2025-06-17",
+                    "institution_price_as_of": "2025-06-18",
                     "cost_basis": 29.36,
                     "quantity": 5,
                     "currency": "USD",
@@ -107,7 +107,7 @@
                 },
                 {
                     "institution_price": 19999.54,
-                    "institution_price_as_of": "2025-06-30",
+                    "institution_price_as_of": "2025-07-01",
                     "cost_basis": 120.03,
                     "quantity": 0.00293644,
                     "currency": "USD",
@@ -118,7 +118,7 @@
                 },
                 {
                     "institution_price": 13.35,
-                    "institution_price_as_of": "2026-01-28",
+                    "institution_price_as_of": "2026-01-29",
                     "cost_basis": 13.35,
                     "quantity": 20,
                     "currency": "USD",
@@ -129,7 +129,7 @@
                 },
                 {
                     "institution_price": 495.72,
-                    "institution_price_as_of": "2025-07-10",
+                    "institution_price_as_of": "2025-07-11",
                     "cost_basis": 495.72,
                     "quantity": 12,
                     "currency": "USD",
@@ -140,7 +140,7 @@
                 },
                 {
                     "institution_price": 11.43,
-                    "institution_price_as_of": "2025-07-27",
+                    "institution_price_as_of": "2025-07-28",
                     "cost_basis": 11.43,
                     "quantity": 20,
                     "currency": "USD",
@@ -151,7 +151,7 @@
                 },
                 {
                     "institution_price": 670.81,
-                    "institution_price_as_of": "2025-06-28",
+                    "institution_price_as_of": "2025-06-29",
                     "cost_basis": 670.81,
                     "quantity": 23,
                     "currency": "USD",
@@ -162,7 +162,7 @@
                 },
                 {
                     "institution_price": 5.51,
-                    "institution_price_as_of": "2025-02-01",
+                    "institution_price_as_of": "2025-02-02",
                     "cost_basis": 5.51,
                     "quantity": 9,
                     "currency": "USD",
@@ -173,7 +173,7 @@
                 },
                 {
                     "institution_price": 114.07,
-                    "institution_price_as_of": "2025-03-05",
+                    "institution_price_as_of": "2025-03-06",
                     "cost_basis": 114.07,
                     "quantity": 3,
                     "currency": "USD",
@@ -184,7 +184,7 @@
                 },
                 {
                     "institution_price": 70.04,
-                    "institution_price_as_of": "2025-04-15",
+                    "institution_price_as_of": "2025-04-16",
                     "cost_basis": 70.04,
                     "quantity": 19,
                     "currency": "USD",
@@ -195,7 +195,7 @@
                 },
                 {
                     "institution_price": 142.99,
-                    "institution_price_as_of": "2025-05-24",
+                    "institution_price_as_of": "2025-05-25",
                     "cost_basis": 142.99,
                     "quantity": 30,
                     "currency": "USD",
@@ -206,7 +206,7 @@
                 },
                 {
                     "institution_price": 78.85,
-                    "institution_price_as_of": "2025-06-05",
+                    "institution_price_as_of": "2025-06-06",
                     "cost_basis": 78.85,
                     "quantity": 11,
                     "currency": "USD",
@@ -217,7 +217,7 @@
                 },
                 {
                     "institution_price": 20.83,
-                    "institution_price_as_of": "2025-07-15",
+                    "institution_price_as_of": "2025-07-16",
                     "cost_basis": 20.83,
                     "quantity": 13,
                     "currency": "USD",
@@ -228,7 +228,7 @@
                 },
                 {
                     "institution_price": 5.9,
-                    "institution_price_as_of": "2025-02-27",
+                    "institution_price_as_of": "2025-02-28",
                     "cost_basis": 5.9,
                     "quantity": 20,
                     "currency": "USD",
@@ -240,7 +240,7 @@
             ],
             "investment_transactions": [
                 {
-                    "date": "2025-10-30",
+                    "date": "2025-10-31",
                     "name": "buy stock",
                     "quantity": 10,
                     "price": 10,
@@ -253,7 +253,7 @@
                     }
                 },
                 {
-                    "date": "2025-10-30",
+                    "date": "2025-10-31",
                     "name": "buy options",
                     "quantity": 10,
                     "price": 10,
@@ -266,7 +266,7 @@
                     }
                 },
                 {
-                    "date": "2025-11-13",
+                    "date": "2025-11-14",
                     "name": "buy stock",
                     "quantity": 15,
                     "price": 10,
@@ -279,7 +279,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-09",
+                    "date": "2025-07-10",
                     "name": "buy stock",
                     "quantity": 10,
                     "price": 2898.32,
@@ -292,7 +292,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-14",
+                    "date": "2025-07-15",
                     "name": "buy stock",
                     "quantity": 160,
                     "price": 121.45,
@@ -305,7 +305,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-11",
+                    "date": "2025-07-12",
                     "name": "buy stock",
                     "quantity": 29,
                     "price": 120.03,
@@ -318,7 +318,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-15",
+                    "date": "2025-07-16",
                     "name": "buy stock",
                     "quantity": 23,
                     "price": 125.03,
@@ -331,7 +331,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-19",
+                    "date": "2025-07-20",
                     "name": "buy stock",
                     "quantity": 36,
                     "price": 120.03,
@@ -344,7 +344,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-01",
+                    "date": "2025-07-02",
                     "name": "buy stock in cash",
                     "quantity": 12,
                     "price": 80,
@@ -357,7 +357,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-10",
+                    "date": "2025-07-11",
                     "name": "buy stock in cash",
                     "quantity": 25,
                     "price": 110,
@@ -370,7 +370,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-20",
+                    "date": "2025-07-21",
                     "name": "buy stock in cash",
                     "quantity": 30,
                     "price": 170,
@@ -383,7 +383,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-13",
+                    "date": "2025-07-14",
                     "name": "buy stock in cash",
                     "quantity": 10,
                     "price": 200,
@@ -396,7 +396,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-20",
+                    "date": "2025-07-21",
                     "name": "buy stock in cash-fee",
                     "quantity": 30,
                     "price": 170,
@@ -409,7 +409,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-01",
+                    "date": "2025-07-02",
                     "name": "buy stock in cash",
                     "quantity": 12,
                     "price": 80,
@@ -422,7 +422,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-10",
+                    "date": "2025-07-11",
                     "name": "buy stock in cash",
                     "quantity": 25,
                     "price": 110,
@@ -435,7 +435,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-26",
+                    "date": "2025-07-27",
                     "name": "transfer amount",
                     "quantity": 12,
                     "price": 125.98,
@@ -448,7 +448,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-27",
+                    "date": "2025-07-28",
                     "name": "transfer amount",
                     "quantity": 7,
                     "price": 150.23,
@@ -461,7 +461,7 @@
                     }
                 },
                 {
-                    "date": "2025-07-28",
+                    "date": "2025-07-29",
                     "name": "transfer amount",
                     "quantity": 10,
                     "price": 170,

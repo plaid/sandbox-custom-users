@@ -26,9 +26,9 @@
             }
         },
         "pay_period_details": {
-            "start_date": "2026-01-12",
-            "end_date": "2026-01-28",
-            "pay_day": "2026-01-28",
+            "start_date": "2026-01-13",
+            "end_date": "2026-01-29",
+            "pay_day": "2026-01-29",
             "gross_earnings": 1000.39,
             "check_amount": 499.28
         },

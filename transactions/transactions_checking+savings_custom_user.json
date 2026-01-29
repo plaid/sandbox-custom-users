@@ -5,15 +5,15 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2026-01-27",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
+                    "date_posted": "2026-01-29",
                     "amount": 398.34,
                     "description": "DEBIT CRD AUTOPAY 98712 000000000098712 WRSGTKIUYPKF KJHAUXYOTLL A",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-30",
-                    "date_posted": "2025-12-01",
+                    "date_transacted": "2025-12-01",
+                    "date_posted": "2025-12-02",
                     "amount": 1109.01,
                     "description": "CREDIT CRD AUTOPAY 29812 000000000098123 KABCRGKSPKFG YOTALDUXZYA B",
                     "currency": "USD"
@@ -42,15 +42,15 @@
             "subtype": "savings",
             "transactions": [
                 {
-                    "date_transacted": "2026-01-27",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
+                    "date_posted": "2026-01-29",
                     "amount": 896.65,
                     "description": "DEBIT CRD AUTOPAY 98712 000000000028791 KIUYPWRSGTKF UXYOTLLKJHA C",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-30",
-                    "date_posted": "2025-12-01",
+                    "date_transacted": "2025-12-01",
+                    "date_posted": "2025-12-02",
                     "amount": 1708.12,
                     "description": "CREDIT CRD AUTOPAY 29812 000000000098123 CRGKFKKSPABG UXZYOTAYLDA D",
                     "currency": "USD"

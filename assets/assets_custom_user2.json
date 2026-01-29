@@ -5,15 +5,15 @@
             "subtype": "savings",
             "transactions": [
                 {
-                    "date_transacted": "2026-01-17",
-                    "date_posted": "2026-01-18",
+                    "date_transacted": "2026-01-18",
+                    "date_posted": "2026-01-19",
                     "amount": 896.65,
                     "description": "DEBIT CRD AUTOPAY 98712 000000000028791 KIUYPWRSGTKF UXYOTLLKJHA C",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2024-01-21",
-                    "date_posted": "2024-01-22",
+                    "date_transacted": "2024-01-22",
+                    "date_posted": "2024-01-23",
                     "amount": 1708.12,
                     "description": "CREDIT CRD AUTOPAY 29812 000000000098123 CRGKFKKSPABG UXZYOTAYLDA D",
                     "currency": "USD"
@@ -68,575 +68,575 @@
             "transactions": [
                 {
                     "amount": 24.83,
-                    "date_posted": "2025-12-30",
-                    "date_transacted": "2025-12-30",
+                    "date_posted": "2025-12-31",
+                    "date_transacted": "2025-12-31",
                     "currency": "USD",
                     "description": "Amazon"
                 },
                 {
                     "amount": 38.85,
-                    "date_posted": "2025-12-30",
-                    "date_transacted": "2025-12-30",
+                    "date_posted": "2025-12-31",
+                    "date_transacted": "2025-12-31",
                     "currency": "USD",
                     "description": "Sams Club Sam's Club"
                 },
                 {
                     "amount": 2.62,
-                    "date_posted": "2025-12-30",
-                    "date_transacted": "2025-12-30",
+                    "date_posted": "2025-12-31",
+                    "date_transacted": "2025-12-31",
                     "currency": "USD",
                     "description": "SHELL SERVICE S"
                 },
                 {
                     "amount": 9.88,
-                    "date_posted": "2025-12-30",
-                    "date_transacted": "2025-12-30",
+                    "date_posted": "2025-12-31",
+                    "date_transacted": "2025-12-31",
                     "currency": "USD",
                     "description": "HLU*HULU 012345 HULU.COM/BILL CA USA"
                 },
                 {
                     "amount": 20.71,
-                    "date_posted": "2025-12-31",
-                    "date_transacted": "2025-12-31",
+                    "date_posted": "2026-01-01",
+                    "date_transacted": "2026-01-01",
                     "currency": "USD",
                     "description": "DOMINO'S 0123  PURCHASE 012-012-0123 FL"
                 },
                 {
                     "amount": 7.5,
-                    "date_posted": "2025-12-31",
-                    "date_transacted": "2025-12-31",
+                    "date_posted": "2026-01-01",
+                    "date_transacted": "2026-01-01",
                     "currency": "USD",
                     "description": "PAYPAL           INST XFER  STARBUCKS       WEB ID: PAYPALSI01"
                 },
                 {
                     "amount": 9.53,
-                    "date_posted": "2025-12-31",
-                    "date_transacted": "2025-12-31",
+                    "date_posted": "2026-01-01",
+                    "date_transacted": "2026-01-01",
                     "currency": "USD",
                     "description": "HLU*HULU 0123456789012-U HULU.COM/BILL CADebit Card Withdrawal"
                 },
                 {
                     "amount": 4.06,
-                    "date_posted": "2026-01-01",
-                    "date_transacted": "2026-01-01",
+                    "date_posted": "2026-01-02",
+                    "date_transacted": "2026-01-02",
                     "currency": "USD",
                     "description": "Jimmy John's"
                 },
                 {
                     "amount": 9.23,
-                    "date_posted": "2026-01-01",
-                    "date_transacted": "2026-01-01",
+                    "date_posted": "2026-01-02",
+                    "date_transacted": "2026-01-02",
                     "currency": "USD",
                     "description": "POS DEBIT                UBER   *                 012-012-0123  CA"
                 },
                 {
                     "amount": 10.75,
-                    "date_posted": "2026-01-01",
-                    "date_transacted": "2026-01-01",
+                    "date_posted": "2026-01-02",
+                    "date_transacted": "2026-01-02",
                     "currency": "USD",
                     "description": "Sally Beauty"
                 },
                 {
                     "amount": 3.35,
-                    "date_posted": "2026-01-01",
-                    "date_transacted": "2026-01-01",
+                    "date_posted": "2026-01-02",
+                    "date_transacted": "2026-01-02",
                     "currency": "USD",
                     "description": "Wawa"
                 },
                 {
                     "amount": 28.28,
-                    "date_posted": "2026-01-02",
-                    "date_transacted": "2026-01-02",
+                    "date_posted": "2026-01-03",
+                    "date_transacted": "2026-01-03",
                     "currency": "USD",
                     "description": "CHEGG  ORDER 012-012-0123 CA                 "
                 },
                 {
                     "amount": 13.89,
-                    "date_posted": "2026-01-02",
-                    "date_transacted": "2026-01-02",
+                    "date_posted": "2026-01-03",
+                    "date_transacted": "2026-01-03",
                     "currency": "USD",
                     "description": "DOORDASH"
                 },
                 {
                     "amount": 52.49,
-                    "date_posted": "2026-01-02",
-                    "date_transacted": "2026-01-02",
+                    "date_posted": "2026-01-03",
+                    "date_transacted": "2026-01-03",
                     "currency": "USD",
                     "description": "APL*ITUNES.COM BILL   012-012-0123"
                 },
                 {
                     "amount": -5000,
-                    "date_posted": "2026-01-02",
-                    "date_transacted": "2026-01-02",
+                    "date_posted": "2026-01-03",
+                    "date_transacted": "2026-01-03",
                     "currency": "USD",
                     "description": "MONTHLY PAYCHECK"
                 },
                 {
                     "amount": 39.69,
-                    "date_posted": "2026-01-03",
-                    "date_transacted": "2026-01-03",
+                    "date_posted": "2026-01-04",
+                    "date_transacted": "2026-01-04",
                     "currency": "USD",
                     "description": "Qt"
                 },
                 {
                     "amount": 8.75,
-                    "date_posted": "2026-01-04",
-                    "date_transacted": "2026-01-04",
+                    "date_posted": "2026-01-05",
+                    "date_transacted": "2026-01-05",
                     "currency": "USD",
                     "description": " Card purchase APL*ITUNES.COM/BILL 012-012-0123 CA 01-01-0123"
                 },
                 {
                     "amount": 9.21,
-                    "date_posted": "2026-01-04",
-                    "date_transacted": "2026-01-04",
+                    "date_posted": "2026-01-05",
+                    "date_transacted": "2026-01-05",
                     "currency": "USD",
                     "description": "Playstation Network"
                 },
                 {
                     "amount": 2.09,
-                    "date_posted": "2026-01-07",
-                    "date_transacted": "2026-01-07",
+                    "date_posted": "2026-01-08",
+                    "date_transacted": "2026-01-08",
                     "currency": "USD",
                     "description": "Frys Food"
                 },
                 {
                     "amount": 330.96,
-                    "date_posted": "2026-01-07",
-                    "date_transacted": "2026-01-07",
+                    "date_posted": "2026-01-08",
+                    "date_transacted": "2026-01-08",
                     "currency": "USD",
                     "description": "NNT ULTA #012      012"
                 },
                 {
                     "amount": 4.98,
-                    "date_posted": "2026-01-08",
-                    "date_transacted": "2026-01-08",
+                    "date_posted": "2026-01-09",
+                    "date_transacted": "2026-01-09",
                     "currency": "USD",
                     "description": "MCDONALD'S F01234 BRONX NY                   "
                 },
                 {
                     "amount": 10.8,
-                    "date_posted": "2026-01-08",
-                    "date_transacted": "2026-01-08",
+                    "date_posted": "2026-01-09",
+                    "date_transacted": "2026-01-09",
                     "currency": "USD",
                     "description": "DEBIT CARD PURCHASE XXXXX0123 FANDANGO FANDANGO.CO CA"
                 },
                 {
                     "amount": 38.15,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "PURCHASE AUTHORIZED ON  PAPA JOHN'S #0123 012-012-0123 TX S012345678901234 CARD 0123"
                 },
                 {
                     "amount": 0.75,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "DEBIT CARD PURCHASE XXXXX0123 DOORDASH*WENDYS DOORDASH.CO CA"
                 },
                 {
                     "amount": 11.11,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "AMZN MKTP US*MW AMZN.COM/BILL WA USA"
                 },
                 {
                     "amount": 51.15,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "Texas Roadhouse"
                 },
                 {
                     "amount": 18.75,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "Withdrawal Debit Card STARBUCKS 012-012-0123 WA Date /01 01234567890123456789012 Card 0123"
                 },
                 {
                     "amount": 15.91,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "UBER   EATSDebit Card Purchase"
                 },
                 {
                     "amount": 5.01,
-                    "date_posted": "2026-01-09",
-                    "date_transacted": "2026-01-09",
+                    "date_posted": "2026-01-10",
+                    "date_transacted": "2026-01-10",
                     "currency": "USD",
                     "description": "LYFT - RIDERS CARD#0123"
                 },
                 {
                     "amount": 3.74,
-                    "date_posted": "2026-01-10",
-                    "date_transacted": "2026-01-10",
+                    "date_posted": "2026-01-11",
+                    "date_transacted": "2026-01-11",
                     "currency": "USD",
                     "description": "Withdrawal Debit Card Apl*Itunes.Com/Bill 012-012-0123 Ca Date /01 *      0123456789     * 0123"
                 },
                 {
                     "amount": 5.23,
-                    "date_posted": "2026-01-10",
-                    "date_transacted": "2026-01-10",
+                    "date_posted": "2026-01-11",
+                    "date_transacted": "2026-01-11",
                     "currency": "USD",
                     "description": "POSTMATES TIP HTTPSPOSTMATE CA               "
                 },
                 {
                     "amount": 14.03,
-                    "date_posted": "2026-01-10",
-                    "date_transacted": "2026-01-10",
+                    "date_posted": "2026-01-11",
+                    "date_transacted": "2026-01-11",
                     "currency": "USD",
                     "description": "0123 Dominos Pizza 012-012-0123 CA           "
                 },
                 {
                     "amount": 8.42,
-                    "date_posted": "2026-01-11",
-                    "date_transacted": "2026-01-11",
+                    "date_posted": "2026-01-12",
+                    "date_transacted": "2026-01-12",
                     "currency": "USD",
                     "description": "SUNOCO 0123456789"
                 },
                 {
                     "amount": 0.75,
-                    "date_posted": "2026-01-11",
-                    "date_transacted": "2026-01-11",
+                    "date_posted": "2026-01-12",
+                    "date_transacted": "2026-01-12",
                     "currency": "USD",
                     "description": "USPS.COM MOVER'S GUID 012-012-0123 TN        "
                 },
                 {
                     "amount": 10.72,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "APL*ITUNES 01234567890 01-01"
                 },
                 {
                     "amount": 7.51,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "Arco"
                 },
                 {
                     "amount": 20.71,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "POS Debit - Visa Check Card 0123 - DOMINO'S 0123 012-012-0123 CA"
                 },
                 {
                     "amount": 17.99,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "DAVE.COM 0123456789 CA"
                 },
                 {
                     "amount": 95.11,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "The Home Depot"
                 },
                 {
                     "amount": 7.49,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "PAYPAL           INST XFER  MICROSOFT       WEB ID: PAYPALSI01"
                 },
                 {
                     "amount": 0.74,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "HLU*HULU 0123456789012 HULU.COM/"
                 },
                 {
                     "amount": 11.98,
-                    "date_posted": "2026-01-12",
-                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
+                    "date_transacted": "2026-01-13",
                     "currency": "USD",
                     "description": "KFC C012345"
                 },
                 {
                     "amount": 7.3,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "CINEMARK MOVIE CLUB 012-012-0123 TX          "
                 },
                 {
                     "amount": 11.05,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "PIN POS Wal-Mart S CARD#0123"
                 },
                 {
                     "amount": 6.14,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "Check Card: UBER TRIP HELP.UBER.COM CA /01%% Card 01 #0123"
                 },
                 {
                     "amount": 2.22,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "BURGER KING #0123  CARD#0123"
                 },
                 {
                     "amount": 3.73,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "DBT Purchase APL*ITUNES.COM/BIL012-012-0123 CA            0123"
                 },
                 {
                     "amount": 221.38,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "ATTWithdrawalPayment"
                 },
                 {
                     "amount": 34.95,
-                    "date_posted": "2026-01-13",
-                    "date_transacted": "2026-01-13",
+                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
                     "currency": "USD",
                     "description": "POS PURCHASE AMZN MKTP US*MW* AMZN.COM/BILL WA 012345 012345678  01:01"
                 },
                 {
                     "amount": 8.11,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "MICROSOFT*XBOX GAME PA MSBILL.INFO WA        "
                 },
                 {
                     "amount": 3.74,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "Debit Card Purchase - APL*ITUNES.COM/BILL"
                 },
                 {
                     "amount": 12.03,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "APL*ITUNES.COM/BIL 01-01 012-012"
                 },
                 {
                     "amount": 8.73,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "CARD TRANSACTION : APL*ITUNES.COM/BILL, 012-012-0123, CA FROM CARD#: XXXXXXXXXXXX0123"
                 },
                 {
                     "amount": 226.85,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "Frys Food"
                 },
                 {
                     "amount": 9.96,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "DOMINO'S 0123 CARD#0123"
                 },
                 {
                     "amount": 4.64,
-                    "date_posted": "2026-01-14",
-                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
                     "currency": "USD",
                     "description": "MCDONALD S F0123 *"
                 },
                 {
                     "amount": 4.8,
-                    "date_posted": "2026-01-15",
-                    "date_transacted": "2026-01-15",
+                    "date_posted": "2026-01-16",
+                    "date_transacted": "2026-01-16",
                     "currency": "USD",
                     "description": "POS DEBIT - WAL-MART #0123"
                 },
                 {
                     "amount": 139.98,
-                    "date_posted": "2026-01-15",
-                    "date_transacted": "2026-01-15",
+                    "date_posted": "2026-01-16",
+                    "date_transacted": "2026-01-16",
                     "currency": "USD",
                     "description": "BLIZZARD ENTERTAINM 012-012-0123 CA          "
                 },
                 {
                     "amount": 10.83,
-                    "date_posted": "2026-01-15",
-                    "date_transacted": "2026-01-15",
+                    "date_posted": "2026-01-16",
+                    "date_transacted": "2026-01-16",
                     "currency": "USD",
                     "description": "POS Debit - Visa Check Card 0123 - AMZN MKTP US*MW012 AMZN.COM B"
                 },
                 {
                     "amount": 25.56,
-                    "date_posted": "2026-01-15",
-                    "date_transacted": "2026-01-15",
+                    "date_posted": "2026-01-16",
+                    "date_transacted": "2026-01-16",
                     "currency": "USD",
                     "description": "WAL-MART #0123"
                 },
                 {
                     "amount": 10.8,
-                    "date_posted": "2026-01-16",
-                    "date_transacted": "2026-01-16",
+                    "date_posted": "2026-01-17",
+                    "date_transacted": "2026-01-17",
                     "currency": "USD",
                     "description": "BURGER KING #0123 CARD#0123"
                 },
                 {
                     "amount": 19.59,
-                    "date_posted": "2026-01-16",
-                    "date_transacted": "2026-01-16",
+                    "date_posted": "2026-01-17",
+                    "date_transacted": "2026-01-17",
                     "currency": "USD",
                     "description": "DENNY'S #0123"
                 },
                 {
                     "amount": 64.73,
-                    "date_posted": "2026-01-17",
-                    "date_transacted": "2026-01-17",
+                    "date_posted": "2026-01-18",
+                    "date_transacted": "2026-01-18",
                     "currency": "USD",
                     "description": "PURCHASE AUTHORIZED ON  AMZN Mktp US*MW*R* Amzn.com/bill WA S012345678901234 CARD 0123"
                 },
                 {
                     "amount": 229.37,
-                    "date_posted": "2026-01-17",
-                    "date_transacted": "2026-01-17",
+                    "date_posted": "2026-01-18",
+                    "date_transacted": "2026-01-18",
                     "currency": "USD",
                     "description": "Food Lion"
                 },
                 {
                     "amount": 2.99,
-                    "date_posted": "2026-01-18",
-                    "date_transacted": "2026-01-18",
+                    "date_posted": "2026-01-19",
+                    "date_transacted": "2026-01-19",
                     "currency": "USD",
                     "description": "POS Debit - Visa Check Card 0123 - NINTENDO *AMERI 012-012-0123"
                 },
                 {
                     "amount": 1.73,
-                    "date_posted": "2026-01-19",
-                    "date_transacted": "2026-01-19",
+                    "date_posted": "2026-01-20",
+                    "date_transacted": "2026-01-20",
                     "currency": "USD",
                     "description": "APL*ITUNES.COM/B 012-012-0123 CAUS Tran Date/Time: /0123 01:01:01"
                 },
                 {
                     "amount": 12.23,
-                    "date_posted": "2026-01-20",
-                    "date_transacted": "2026-01-20",
+                    "date_posted": "2026-01-21",
+                    "date_transacted": "2026-01-21",
                     "currency": "USD",
                     "description": "POS Debit - Visa Check Card 0123 - DAVE.COM 012-0123456 CA"
                 },
                 {
                     "amount": 29.72,
-                    "date_posted": "2026-01-20",
-                    "date_transacted": "2026-01-20",
+                    "date_posted": "2026-01-21",
+                    "date_transacted": "2026-01-21",
                     "currency": "USD",
                     "description": "0123 DOMINOS PIZZA"
                 },
                 {
                     "amount": 18.97,
-                    "date_posted": "2026-01-20",
-                    "date_transacted": "2026-01-20",
+                    "date_posted": "2026-01-21",
+                    "date_transacted": "2026-01-21",
                     "currency": "USD",
                     "description": "Microsoft*Xbox Live Gol"
                 },
                 {
                     "amount": 85.5,
-                    "date_posted": "2026-01-21",
-                    "date_transacted": "2026-01-21",
+                    "date_posted": "2026-01-22",
+                    "date_transacted": "2026-01-22",
                     "currency": "USD",
                     "description": "APPLE PAY"
                 },
                 {
                     "amount": 6.28,
-                    "date_posted": "2026-01-21",
-                    "date_transacted": "2026-01-21",
+                    "date_posted": "2026-01-22",
+                    "date_transacted": "2026-01-22",
                     "currency": "USD",
                     "description": "7-Eleven (Fast Food)"
                 },
                 {
                     "amount": 91.43,
-                    "date_posted": "2026-01-21",
-                    "date_transacted": "2026-01-21",
+                    "date_posted": "2026-01-22",
+                    "date_transacted": "2026-01-22",
                     "currency": "USD",
                     "description": "LOWES #012345"
                 },
                 {
                     "amount": 12.97,
-                    "date_posted": "2026-01-22",
-                    "date_transacted": "2026-01-22",
+                    "date_posted": "2026-01-23",
+                    "date_transacted": "2026-01-23",
                     "currency": "USD",
                     "description": "MICROSOFT   *OFFICE 01 MSBILL.INFO WA        "
                 },
                 {
                     "amount": 7.5,
-                    "date_posted": "2026-01-23",
-                    "date_transacted": "2026-01-23",
+                    "date_posted": "2026-01-24",
+                    "date_transacted": "2026-01-24",
                     "currency": "USD",
                     "description": "Skillz * ESPORTS 012-0123456 MA              "
                 },
                 {
                     "amount": 11.83,
-                    "date_posted": "2026-01-24",
-                    "date_transacted": "2026-01-24",
+                    "date_posted": "2026-01-25",
+                    "date_transacted": "2026-01-25",
                     "currency": "USD",
                     "description": "7-ELEVEN                          M01234 ?"
                 },
                 {
                     "amount": 7.19,
-                    "date_posted": "2026-01-26",
-                    "date_transacted": "2026-01-26",
+                    "date_posted": "2026-01-27",
+                    "date_transacted": "2026-01-27",
                     "currency": "USD",
                     "description": "PURCHASE AUTHORIZED ON  DOORDASH*WENDYS DOORDASH.COM CA S012345678901234 CARD 0123"
                 },
                 {
                     "amount": 2.37,
-                    "date_posted": "2026-01-26",
-                    "date_transacted": "2026-01-26",
+                    "date_posted": "2026-01-27",
+                    "date_transacted": "2026-01-27",
                     "currency": "USD",
                     "description": "STARBUCKS STORE 01 CARD#0123"
                 },
                 {
                     "amount": 1.91,
-                    "date_posted": "2026-01-27",
-                    "date_transacted": "2026-01-27",
+                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
                     "currency": "USD",
                     "description": "CMS Vending"
                 },
                 {
                     "amount": 8.75,
-                    "date_posted": "2026-01-27",
-                    "date_transacted": "2026-01-27",
+                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
                     "currency": "USD",
                     "description": "MONEY ORDER"
                 },
                 {
                     "amount": 13.13,
-                    "date_posted": "2026-01-27",
-                    "date_transacted": "2026-01-27",
+                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
                     "currency": "USD",
                     "description": "DEBIT CARD PURCHASE XXXXX0123 GROUPON INC GROUPON.COM IL"
                 },
                 {
                     "amount": 7.29,
-                    "date_posted": "2026-01-27",
-                    "date_transacted": "2026-01-27",
+                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
                     "currency": "USD",
                     "description": "APL* ITUNES.COM One Apple Park Way 012-012-01"
                 },
                 {
                     "amount": 0.75,
-                    "date_posted": "2026-01-28",
-                    "date_transacted": "2026-01-28",
+                    "date_posted": "2026-01-29",
+                    "date_transacted": "2026-01-29",
                     "currency": "USD",
                     "description": "CONTACTS SUBSCRIPTIO HTTPSWWW.HUBB NY        "
                 }

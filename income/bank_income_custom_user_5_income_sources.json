@@ -5,85 +5,85 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2026-01-14",
-                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
+                    "date_posted": "2026-01-16",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-14",
-                    "date_posted": "2025-12-15",
+                    "date_transacted": "2025-12-15",
+                    "date_posted": "2025-12-16",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-14",
-                    "date_posted": "2025-11-15",
+                    "date_transacted": "2025-11-15",
+                    "date_posted": "2025-11-16",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-10-14",
-                    "date_posted": "2025-10-15",
+                    "date_transacted": "2025-10-15",
+                    "date_posted": "2025-10-16",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-09-16",
-                    "date_posted": "2025-09-17",
+                    "date_transacted": "2025-09-17",
+                    "date_posted": "2025-09-18",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-08-16",
-                    "date_posted": "2025-08-17",
+                    "date_transacted": "2025-08-17",
+                    "date_posted": "2025-08-18",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-03",
-                    "date_posted": "2026-01-04",
+                    "date_transacted": "2026-01-04",
+                    "date_posted": "2026-01-05",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-03",
-                    "date_posted": "2025-12-04",
+                    "date_transacted": "2025-12-04",
+                    "date_posted": "2025-12-05",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-03",
-                    "date_posted": "2025-11-04",
+                    "date_transacted": "2025-11-04",
+                    "date_posted": "2025-11-05",
                     "amount": -2500,
                     "description": "Social Security Administration",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-27",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-28",
+                    "date_posted": "2026-01-29",
                     "amount": -25,
                     "description": "bank interest payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-27",
-                    "date_posted": "2025-12-28",
+                    "date_transacted": "2025-12-28",
+                    "date_posted": "2025-12-29",
                     "amount": -25,
                     "description": "bank interest payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-27",
-                    "date_posted": "2025-11-28",
+                    "date_transacted": "2025-11-28",
+                    "date_posted": "2025-11-29",
                     "amount": -25,
                     "description": "bank interest payment",
                     "currency": "USD"
@@ -112,85 +112,85 @@
             "subtype": "savings",
             "transactions": [
                 {
-                    "date_transacted": "2026-01-14",
-                    "date_posted": "2026-01-15",
+                    "date_transacted": "2026-01-15",
+                    "date_posted": "2026-01-16",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-30",
-                    "date_posted": "2025-12-31",
+                    "date_transacted": "2025-12-31",
+                    "date_posted": "2026-01-01",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-14",
-                    "date_posted": "2025-12-15",
+                    "date_transacted": "2025-12-15",
+                    "date_posted": "2025-12-16",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-29",
-                    "date_posted": "2025-11-30",
+                    "date_transacted": "2025-11-30",
+                    "date_posted": "2025-12-01",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-14",
-                    "date_posted": "2025-11-15",
+                    "date_transacted": "2025-11-15",
+                    "date_posted": "2025-11-16",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-10-30",
-                    "date_posted": "2025-10-31",
+                    "date_transacted": "2025-10-31",
+                    "date_posted": "2025-11-01",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-18",
-                    "date_posted": "2026-01-19",
+                    "date_transacted": "2026-01-19",
+                    "date_posted": "2026-01-20",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-11",
-                    "date_posted": "2026-01-12",
+                    "date_transacted": "2026-01-12",
+                    "date_posted": "2026-01-13",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-04",
-                    "date_posted": "2026-01-05",
+                    "date_transacted": "2026-01-05",
+                    "date_posted": "2026-01-06",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-28",
-                    "date_posted": "2025-12-29",
+                    "date_transacted": "2025-12-29",
+                    "date_posted": "2025-12-30",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-21",
-                    "date_posted": "2025-12-22",
+                    "date_transacted": "2025-12-22",
+                    "date_posted": "2025-12-23",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-14",
-                    "date_posted": "2025-12-15",
+                    "date_transacted": "2025-12-15",
+                    "date_posted": "2025-12-16",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"

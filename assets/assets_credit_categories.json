@@ -5,1562 +5,1562 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1,
                     "description": "Debit: ATM Transaction Decline Fee - Domestic",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 3,
                     "description": "NONTD ATM FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1,
                     "description": "ATM Balance Inquiry Fee (out-of-network)",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 3,
                     "description": "NON-CHASE ATM FEE-WITH",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 2.5,
                     "description": "Atm Fee XXXXXXplustermXXX West Xnd St.rockfalls IlusX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1.5,
                     "description": "CHECKCARD XXXX CHUMBA GOLD COINS VALETTA XXXXXXXXXXXXXXXXXXXXXXX INTERNATIONAL TRANSACTION FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 0.15,
                     "description": "CHECKCARD XXXX CHUMBA GOLD COINS VALETTA XXXXXXXXXXXXXXXXXXXXXXX INTERNATIONAL TRANSACTION FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 0.65,
                     "description": "International Service Fee",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 7.59,
                     "description": "INTERNATIONAL TRANSACTION FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 29.5,
                     "description": "Courtesy Pay fee ACH ECC PPD ACH Trace XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5,
                     "description": "MONTHLY FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -5,
                     "description": "FEE REVERSAL",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 0.11,
                     "description": "Card Fee VISA INTERNATIONAL SERVICE ASSESSMENT Date XX/XX/XX Card XX #XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 17,
                     "description": "NSF/OD CHARGE PAID PAID BY OVERDRAFT PROTECTION",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 2,
                     "description": "DAILY OVERDRAFT FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 35,
                     "description": "OVERDRAFT FEE FOR A TRANSACTION POSTED ON XX/XX $X.XX RECURRING PAYMENT AUTHORIZED ON XX/XX HLU*Hulu XXXXXXXXX HULU.COM/BIL",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 35,
                     "description": "OVERDRAFT FEE FOR A TRANSACTION POSTED ON XX/XX $XX.XX RECURRING PAYMENT AUTHORIZED ON XX/XX Amazon Prime*FNXTN Amzn.com/bil",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -29,
                     "description": "COURTESY NSF FEE RFND",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 9,
                     "description": "Paid NSF Fee / ACH Trace Number: XXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 32,
                     "description": "Insufficient Funds Charge Paid / VENMO - PAYMENT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 34,
                     "description": "INSUFFICIENT FUNDS FEE FOR A $XX.XX CARD PURCHASE - DETAILS: XXXXOBP*FIRSTCOMXXXXXXXX masked_email_addressTXX############X",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 29.5,
                     "description": "ODP NSF FEE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 13,
                     "description": "POS Purchase TX XXX-XXXXXXX RVT*TERRELL ISD SEQ# XXXXXX XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 3.25,
                     "description": "VISA DDA PUR XXXXXX DUNKIN XXXXXX QXX CENTEREACH * NY",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 18.94,
                     "description": "CHICK-FIL-A #XXXXX INDIANAPOLIS IN XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 4.85,
                     "description": "PURCHASE AUTHORIZED ON XX/XX COUNTRYSIDE DONUT KIRKLAND WA SXXXXXXXXXXXXXXX CARD XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 10,
                     "description": "PURCHASE AUTHORIZED ON XX/XX DRAFTKINGS SPORTSB XXXXXXXXXX MA SXXXXXXXXXXXXXXX CARD XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 13.69,
                     "description": "XDODGER STADM LOS ANGELES CA XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 15.7,
                     "description": "CHECKCARD XXXX CNK*CINEMARK.COM XXXX XXX-XXX-XXXX MA XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 21.64,
                     "description": "NETFLIX COMLOS GATOSCAUS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 4.31,
                     "description": "CHECKCARD XXXX Nintendo CAXXXXXXXXX XXX-XXXXXXX WA XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 54.07,
                     "description": "MOBILE PURCHASE XXXX ULERIO DELI GROCERY BRONX NY XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 20.56,
                     "description": "MOBILE PURCHASE XXXX SIENNA WINE & SPI MISSOURI CITYTX XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1.75,
                     "description": "SNACK SODA VEND NORWOOD /MA US CARD PURCHASE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 59.52,
                     "description": "H&MXXXX XX/XX #XXXXXXXXX PURCHASE H&MXXXX SAN ANTONIO TX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 10.91,
                     "description": "PURCHASE AUTHORIZED ON XX/XX PlaystationNetwork XXX-XXXXXXX CA SXXXXXXXXXXXXXXX CARD XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 7.55,
                     "description": "7-Eleven",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5.08,
                     "description": "KOHLS XXXX XX/XX #XXXXXXXXX PURCHASE XXXXX MIRAMAR PKW MIRAMAR FL",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 2.5,
                     "description": "DOLLARTRE XXXX BAYPORT SEABROOK",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 42,
                     "description": "HOME DEPOT AUTO PYMT ***********XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 12.95,
                     "description": "CHECKCARD XXXX AMZN MKTP US*HIXWXXRXX AMZN.COM/BILLWA XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 78.95,
                     "description": "Go Calendars Games Books XXth Ave Se Albany",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 112.69,
                     "description": "SPORTSMANS WAR XX/XX #XXXXXXXXX PURCHASE SPORTSMANS WAREHO FRESNO CA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 27.36,
                     "description": "TARGET XXXXXXXX HURST TX XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 216.26,
                     "description": "BRIDGECREST DT RETAIL XXXX XXX XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 39,
                     "description": "LEGALSHIELD *MEMBRSHIP XXXXXXXXXX OK XXXXX Debit Card Purchase XX/XX XX:XXa #XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 123.15,
                     "description": "MOSQUITO SQUAD - NY XXX-XXXXXXX NY XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -540,
                     "description": "REAL PROPERTY SO XPZV PPD ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -13194.94,
                     "description": "XXX XXX DES:AP PROGRAM ID:XXXXX INDN:XXX XXX CO ID:XXXXXXXXXX CCD",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5487.69,
                     "description": "CITY CNTY OF SF CTY SF PMT XXXXXX XXXXXXXX XX DECATUR CHECKING",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -549,
                     "description": "ACH DEPOSIT, STATE OF NJ - LA UEMPLOYMEN ****XXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1895,
                     "description": "SSA TREAS XXX XXSOC SEC XXXXXXXXXA SSA XXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -441,
                     "description": "NYS DOL UI DD UI DD",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -327.99,
                     "description": "VACP TREAS XXX XXVA BENEF ***********XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1195,
                     "description": "SSA TREAS XXX XXSOC SEC XXXXXX XXXXXXXXXA SSA XXX X XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -486.63,
                     "description": "Deposit",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -20,
                     "description": "Mobile Deposit",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -285,
                     "description": "BKOFAMERICA ATM XX/XX #XXXXXXXXX DEPOSIT CAROLINA FOREST MYRTLE BEACH SC",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -106.66,
                     "description": "Uber XX/XX #XXXXXXXXX PMNT RCVD Uber San Francisco CA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -200,
                     "description": "Mobile Banking Transfer Deposit XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -2347.63,
                     "description": "GMSTEK LLC XJIK XXXXXX XJIK XX XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -462.39,
                     "description": "AMAZON.COM SVCS DIRECT DEP PPD ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1083.15,
                     "description": "LEE HY PAVING CO PAYMENT XXXXXX XXX VIRGINIA TRANSPORT INC",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -727.62,
                     "description": "Partners XXXX PAYROLL XXXXXXXXXLE, TH XXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -807.84,
                     "description": "WHITE LINE CONST/QUICKBOOKS / XXX, XXX O",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 245.67,
                     "description": "PROG COUNTY MUT INS PREM XXXXXXXXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 120.58,
                     "description": "AAA CA INSURANCE XXX-XXX-XXXX CA XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 7.08,
                     "description": "STATE FARM RO XX SFPP XX S XXXXXXXXXX XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 107,
                     "description": "FARMERS INS EFT PYMT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 155.58,
                     "description": "GEICO PREM COLL PPD ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1377.86,
                     "description": "CompletePRXXBXXL TAX IMPOUN",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 175,
                     "description": "IRS USATAXPYMT PPD ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 164.28,
                     "description": "CCD DEBIT, ADP TAX ADP TAX KHXFH XXXXXXAXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 155.34,
                     "description": "IRS USATAXPYMT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 170.83,
                     "description": "WEBFILE TAX PYMT DD XXX/XXXXXXXX CCD ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 253.36,
                     "description": "INTEREST CHARGE ON PURCHASES",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1.29,
                     "description": "Interest Charge on Cash A",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1.45,
                     "description": "INTEREST CHARGE-CASH ADVANCES",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 62.37,
                     "description": "INTEREST CHARGE-PURCHASES",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 4.56,
                     "description": "INTEREST CHARGE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.01,
                     "description": "Credit Interest No Category",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -120,
                     "description": "Internet transfer from Interest Checking account XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1.21,
                     "description": "Credit Interest",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.01,
                     "description": "Interest Earned",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.01,
                     "description": "Interest Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.01,
                     "description": "Interest Deposit",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1181.3,
                     "description": "FLAGSHIP CREDIT DES:DIRECT DEP ID:XXXXXXXXXXXXHLA INDN:XXX,XXX MIC CO ID:XXXXXXXXXX PPD",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.32,
                     "description": "Round-up Credit from Purchase FLAGSHIP CREDIT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.32,
                     "description": "Round-up Credit from Purchase FLAGSHIP CREDIT XXX-XXX-XXXX CAUS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.32,
                     "description": "Round-up Credit from Purchase FLAGSHIP CREDIT XXX-XXX-XXXX CAUS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1006.61,
                     "description": "FLAGSHIP CREDIT DES:DIRECT DEP ID:XXXXXXXXXXXXHLA INDN:XXX,XXX MIC CO ID:XXXXXXXXXX PPD",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -95,
                     "description": "Brigit XX/XX #XXXXXXXXX PMNT RCVD Brigit Visa Direct NY",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -100,
                     "description": "POS Adjustment - Earnin Payment Rec Visa Direct CAUS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -300,
                     "description": "Dave Inc LOS ANGELES CA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -50,
                     "description": "Brigit DDA VISAMONEY CREDIT CDXXXX New York NY#XXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.01,
                     "description": "FSXXXXXXAQVXXXAQSXXXOBXXXXXXXXXXC XXXXV via EARNIN TRANSFER",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -110,
                     "description": "KLOVER APP BOOST CHICAGO IL XXXXXX XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -250,
                     "description": "Check Card Credit - Sunshine Loans Lake Worth FL",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -15,
                     "description": "Transfer Empower AutoSave To Empower Card",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -173.75,
                     "description": "JCpBXKUXhfFJRX XX/XX #XXXXXXXXX PMNT RCVD Empower Loans cre Murray UT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -7,
                     "description": "Albert",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -25271.66,
                     "description": "BOOK TRANSFER CREDIT TRANSFER FROM LOAN ACCOUNT XXXXXXXXXXX NOTE NO XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -100,
                     "description": "Instacash Funds NEW YORK NY XXXXXX XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -200,
                     "description": "Power Finance XX/XX #XXXXXXXXX PMNT RCVD Power Finance Tex Houston TX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -12.78,
                     "description": "NAVchek Advance (GTXX) AUTO ADVANCE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -100,
                     "description": "Instacash Funds NEW YORK NY XXXXXX XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -406.77,
                     "description": "Transfer from Credit Builder",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -500,
                     "description": "SUNSHINELOAN SUNSHNLOANXXXXXXXXXX - CREDIT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -200,
                     "description": "Transfer from Credit Builder",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5,
                     "description": "DEBIT CARD PURCHASE AT Dave Inc, Los Angeles, CA ON XXXXXX FROM CARD#: XXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 107.99,
                     "description": "Earnin Active DES:PAYMENTRET ID:XXXXXXXXX INDN:XXX XXX CO ID:XXXXXXXXXX WEB",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 100.5,
                     "description": "Earnin PAYMENTRET XXXXXXXXX WEB ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 101,
                     "description": "Earnin PAYMENTRET XXXXXXXXX XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 103.99,
                     "description": "PAYMENTRET Earnin Active XXXXXXXXX INTERNET PAYMENT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 54.76,
                     "description": "ACH DEBIT XXXXXX GETGREENXXX XXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 11,
                     "description": "PURCHASE AUTHORIZED ON XX/XX Albert Instant Covina CA SXXXXXXXXXXXXXXX CARD XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 193.18,
                     "description": "CREDITNINJA PMT PAYMENT XXXXXX PLMXXXXXXX XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 60.28,
                     "description": "SUNSHINE LOAN",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 8,
                     "description": "EMPOWER EMPOWER.ME CARD: XXXXXXX XX/XX/XXXX XX:XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 160,
                     "description": "ACH Withdrawal AMEX EPAYMENT ER AM - ACH PMT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 6512.55,
                     "description": "BUSINESS TO BUSINESS ACH AMERICAN EXPRESS ACH PMT XXXXXX WXXXX XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 73.1,
                     "description": "AMERICAN EXPRESS DES:ACH PMT ID:WXXXX INDN:XXX XXX CO ID:XXXXXXXXXX WEB",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 107.95,
                     "description": "Credit One Bank Payment XXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1544.85,
                     "description": "ROCKET MORTGAGE MTG PYMTS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1764.33,
                     "description": "X/X MORTGAGE LN PAYMENT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 600,
                     "description": "LAKEVIEW LN SRV DES:MTG PYMT ID:XXXXXXXXXX INDN:XXX XXX CO ID:XXXXXXXXXX WEB",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 744.38,
                     "description": "ACH Withdrawal / US BANK HOME MTG XXXXXXXXXX MTG PYMT XXXXXX XXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1355.57,
                     "description": "US BANK HOME MTG MTG PYMT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 47.04,
                     "description": "ZIP.CO* QUADPAY ANYW HTTPSWWW.ZIP. NY XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 14.22,
                     "description": "Afterpay",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 10,
                     "description": "CKCD DEBIT XX/XX AFTERPAY X XX-XXXXXXX DE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 327.17,
                     "description": "MONEYKEY- TX INC - XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 84.3,
                     "description": "NAVIENT PMT SPE XXXXXXXXXX XXXXXXXXXC",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 19.5,
                     "description": "NAVIENT PMT SPE XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 60,
                     "description": "GREAT LAKES STUDENT LN XOXXACTEURX WEB ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 283.48,
                     "description": "NAVIENT ONLINE PMT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 184.3,
                     "description": "FEB CREDIT FRESH Payment PPD ID: XXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 151.77,
                     "description": "MONEYKEY CC FLOW DES:DEBIT ID:CXXXXXXXXXXXXXX INDN:Ellen Vo CO ID:XXXXXXXXXX PPD",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 123.81,
                     "description": "ACH Payment MONEYKEY-MO INC - / XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 122.07,
                     "description": "EMONEYUSAP",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 111.87,
                     "description": "CBW CREDIT FRESH PAYMENT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 90,
                     "description": "CHECKCARD XXXX EYE SPECIALIST OF ILLI PARK RIDGE IL XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 190.8,
                     "description": "MENDILI DENTAL SERVICE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 96.07,
                     "description": "CHECKCARD XXXX MACK PHYSICAL THERAPY HTTPSWWW.MOVEIL XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 31.61,
                     "description": "Dbt Crd Walgreens Store XXXX J Point Pleasan Wv",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1,
                     "description": "GATHER & GATHER CD XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 10,
                     "description": "Withdrawal PLANET FIT / TYPE: CLUB FEES ID: XXXXXXXXXX CO: PLANET FIT %% ACH Trace XXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 54.12,
                     "description": "PURCHASE AUTHORIZED ON XX/XX SPA CASTLE TEXAS CARROLLTON TX SXXXXXXXXXXXXXXX CARD XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5,
                     "description": "Wash Laundry Waverider",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 60.17,
                     "description": "Chewy",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 94.06,
                     "description": "DEBIT CARD PURCHASE MILL CREEK ANIMAL HOSPIT SHAWNEE KS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 144.45,
                     "description": "Bill Pay Entergy\u00ac\u2020Services WEB \u00ac\u2020XXXXXXXXXXXXX\u00ac\u2020XXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 88.95,
                     "description": "AMERICAN EXPRESS DES:ACH PMT ID:WXXXX INDN:XXX XXX CO ID:XXXXXXXXXX WEB",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 346.1,
                     "description": "Arlington Water Utl",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 1086.17,
                     "description": "ALTA VISTA TOWE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 120,
                     "description": "Pos Debit- XXXX XXXX Sprint Wireless XXX-XXX-XXXX KS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 55.27,
                     "description": "ATT*BILL PAYMENT XXX-XXX-XXXX TX XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 41.63,
                     "description": "ENTERPRISE WATER WORKS XXX-XXXXXXX AL",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -9657.1,
                     "description": "RT FED REPUBLIC TRS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -375,
                     "description": "GASTTAXRFD Georgia Departme XXXXXXX,XXX ACH CREDIT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1390.98,
                     "description": "TPG PRODUCTS",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -203,
                     "description": "NY STATE NYSTTAXRFD PPD ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -22.22,
                     "description": "XX TREAS XXX MISC PAY XXXXXX XXXXXXXXX RMT*IV*XXXXXX\\REF*VV*EVXXXXXXXXXDX*(XXX)XXX-XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -12.49,
                     "description": "XXX Checking Card Adjustment Signature (Credit) ZILCH SAN FRANCISC CA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -20,
                     "description": "XXX Checking Card Adjustment POS PIN (Credit) CASH APP*CASH OUT VISA DIRECT, CA US",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -20,
                     "description": "EB From Checking XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -0.34,
                     "description": "INTERNET TFR FRM CHECKING",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -500,
                     "description": "Deposit - GFG_WLO GFG WLO DEPOSIT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -40,
                     "description": "From XXX,XXX J XXXXXXXXXX Share XXXX/Deposit Express Banker Transfer",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -100,
                     "description": "Real Time Payment Credit",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -400,
                     "description": "ONLINE TRANSFER FROM XXX X WAYXSAVE SAVINGS XXXXXXXXXXXXX REF #IBXBXXNBMN ON XX/XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1.09,
                     "description": "RoundUp Deposit",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -85,
                     "description": "Added to Pot",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -200,
                     "description": "Online Banking transfer from SAV XXXX Confirmation# XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -20,
                     "description": "ONLINE TRANSFER FROM XXX X SAVINGS XXXXXXXXXX REF #IBXGXQKXXC ON XX/XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -120,
                     "description": "ZELLE FROM XXX XXX ON XX/XX REF # JPMXXXPXXWAF TOWN COUNTRY",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -38.8,
                     "description": "ONLINE TRANSFER FROM XXX X EVERYDAY CHECKING XXXXXXXXXX REF #IBXGYXXKXZ ON XX/XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -2000,
                     "description": "Zelle Transfer Conf# pxogefXXj; XXXX INTEGRAL SOLUTIONS LLC",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -100,
                     "description": "ONLINE TRANSFER FROM DD XXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -1500,
                     "description": "WIRE TRANSFER CREDIT ON XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -125000,
                     "description": "WT FED#XXXXX TD BANK, NA /ORG=XXX XXX SRF# XXXXXXXXXXXXXIXX TRN#XXXXXXXXXXXX RFB# RBMD-CFTNJG",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -3000,
                     "description": "WT ORG=XXX XXX OGB ID=TD BA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -5000,
                     "description": "INCOMING FEDWIRE CR TRN #XXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": -8800,
                     "description": "INCOMING WIRE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 60,
                     "description": "TO CHECKING XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 350,
                     "description": "Online Banking transfer to CHK XXXX Confirmation# XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 40,
                     "description": "Online Xfer Transfer to CK xXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5.99,
                     "description": "OTT* UPFAITHANDFAMILY DDA RECUR POS PUR CDXXXX masked_email_addressGA#XXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 122.24,
                     "description": "DEBIT CARD PAYMENT, *****XXXXXXXXXXX, AUT XXXXXX VISA DDA PUR",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 14,
                     "description": "NOW Withdrawal Zelle XXX / XXX XXX-XXX-XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 102.25,
                     "description": "ATM W/D XXXX XX/XX/XX XXXXXXXX LOMBARDI CLU-XXXXXX XXX OLIVE ST",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 103.5,
                     "description": "NON-TD ATM W/D",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 30,
                     "description": "MASTERCARD - PAYMENT",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 800,
                     "description": "Cash eWithdrawal in Branch/Store XX/XX/XXXX XX:XX AM XXXX W UNIVERSITY DR EDINBURG TX XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 3,
                     "description": "Subscription Acorns YXPXVX WEB ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5,
                     "description": "Acorns Later Transfer QNLNZY WEB ID: XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 10,
                     "description": "Coinbase.com/SGMYGNXM XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 22,
                     "description": "COINBASE, INC. XXXXXXXXXX CA XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 4000,
                     "description": "SCHWAB BROKERAGE MONEYLINK XXXXXX XXXXXXXXXXXXXXX XXX XXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 256.25,
                     "description": "CHECKCARD XXXX IDEAL IMAGE BRAINTREE BRAINTREE MA XXXXXXXXXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 175,
                     "description": "XMX FINANCIAL S MSP/DIV",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 654,
                     "description": "CHECKCARD XXXX BillMatrix Greenville SC",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 9.99,
                     "description": "PULSZ WILMINGTON DE Card XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 0.06,
                     "description": "KEEP THE CHANGE TRANSFER TO ACCT XXXX FOR XX/XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 300,
                     "description": "Online Banking transfer to SAV XXXX Confirmation# XXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5,
                     "description": "Online Transfer to SAV ...XXXX transaction#: XXXXXXXXXXX XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 76.41,
                     "description": "Transfer to Chime Savings Account",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 0.21,
                     "description": "Round Up - Checking",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 500,
                     "description": "CASH APP*XXX XXX XXXXXXXXXX CA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 77.48,
                     "description": "PAYPAL XXX-XXX-XXXX CA XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 40,
                     "description": "Debit Card Purchase CASH APP*XXX WEB XXXXXXXXXX CA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 2.25,
                     "description": "Digit.co DES:Rainy Day ID:vXthX-YXAAHHLME INDN:XXX XXX CO ID:XXXXXXXXXX PPD",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 100,
                     "description": "ZELLE TO XXX XXX ON XX/XX REF #PPXDBVLJGJ FOR FRANCISCO PAID IN FULL WASHER AND DRYE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 5493,
                     "description": "ONLINE INTERNATIONAL WIRE TRANSFER A/C: T. C. XXX XXX X.X. XXX XXX XXXXX- TR REF: INVOICE PAYMENT TRN: XXXXXXXXXXE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 25000,
                     "description": "ONLINE DOMESTIC WIRE TRANSFER VIA: COMERICA SCO VLY/XXXXXXXXX A/C: LENNAR TITTLE ESCROW ACCOUNT MURRIETA CA XXXXX US REF: REFERE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 2605,
                     "description": "WIRE OUT XXXXXXLXBXXDXCXXXXXX XXXXXXXXXXXX;BNF FISHERBROYLES , LLP IOLTA",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 49.67,
                     "description": "HOFFMAN CARWASH THX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 9.99,
                     "description": "THALES/SPIRIT INFLMELBOURNE F",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 0,
                     "description": "AIRBNB * HMSPXWQDPR Pending - credit/return/for $XX.XX on card XXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 71,
                     "description": "ISTORAGELXXXEASTPOINTE",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 10.5,
                     "description": "CHECKCARD XXXX NJT RAIL - MYTIX XXX-XXXXXXX NY XXXXXXXXXXXXXXXXXXXXXXX CKCD XXXX XXXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 2.75,
                     "description": "MTA*NYCT PAYGO NEW YORK NY XX/XX",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-28",
-                    "date_posted": "2026-01-28",
+                    "date_transacted": "2026-01-29",
+                    "date_posted": "2026-01-29",
                     "amount": 15.3,
                     "description": "PAYPAL INST XFER LYFT RIDE TUE X WEB ID: PAYPALSIXX",
                     "currency": "USD"
