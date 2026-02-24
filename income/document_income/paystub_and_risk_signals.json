@@ -26,9 +26,9 @@
             }
         },
         "pay_period_details": {
-            "start_date": "2026-02-07",
-            "end_date": "2026-02-23",
-            "pay_day": "2026-02-23",
+            "start_date": "2026-02-08",
+            "end_date": "2026-02-24",
+            "pay_day": "2026-02-24",
             "gross_earnings": 1000.39,
             "check_amount": 499.28
         },
