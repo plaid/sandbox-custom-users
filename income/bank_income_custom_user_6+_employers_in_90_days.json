@@ -5,134 +5,134 @@
             "subtype": "checking",
             "transactions": [
                 {
-                    "date_transacted": "2026-04-15",
-                    "date_posted": "2026-04-16",
+                    "date_transacted": "2026-04-16",
+                    "date_posted": "2026-04-17",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-15",
-                    "date_posted": "2026-03-16",
+                    "date_transacted": "2026-03-16",
+                    "date_posted": "2026-03-17",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-02-13",
-                    "date_posted": "2026-02-14",
+                    "date_transacted": "2026-02-14",
+                    "date_posted": "2026-02-15",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-13",
-                    "date_posted": "2026-01-14",
+                    "date_transacted": "2026-01-14",
+                    "date_posted": "2026-01-15",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-12-16",
-                    "date_posted": "2025-12-17",
+                    "date_transacted": "2025-12-17",
+                    "date_posted": "2025-12-18",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2025-11-15",
-                    "date_posted": "2025-11-16",
+                    "date_transacted": "2025-11-16",
+                    "date_posted": "2025-11-17",
                     "amount": -2000,
                     "description": "Plaid Direct Dep",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-04-04",
-                    "date_posted": "2026-04-05",
-                    "amount": -2500,
-                    "description": "Social Security Administration",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-03-04",
-                    "date_posted": "2026-03-05",
-                    "amount": -2500,
-                    "description": "Social Security Administration",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-02-02",
-                    "date_posted": "2026-02-03",
-                    "amount": -2500,
-                    "description": "Social Security Administration",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-04-28",
-                    "date_posted": "2026-04-29",
-                    "amount": -25,
-                    "description": "bank interest payment",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-03-28",
-                    "date_posted": "2026-03-29",
-                    "amount": -25,
-                    "description": "bank interest payment",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-02-26",
-                    "date_posted": "2026-02-27",
-                    "amount": -25,
-                    "description": "bank interest payment",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-03-31",
-                    "date_posted": "2026-04-01",
-                    "amount": -75,
-                    "description": "child support",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-03-18",
-                    "date_posted": "2026-03-19",
-                    "amount": -75,
-                    "description": "child support",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-02-26",
-                    "date_posted": "2026-02-27",
-                    "amount": -75,
-                    "description": "child support",
-                    "currency": "USD"
-                },
-                {
-                    "date_transacted": "2026-04-19",
-                    "date_posted": "2026-04-20",
-                    "amount": -750,
-                    "description": "Unemployment Benefits",
                     "currency": "USD"
                 },
                 {
                     "date_transacted": "2026-04-05",
                     "date_posted": "2026-04-06",
+                    "amount": -2500,
+                    "description": "Social Security Administration",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-03-05",
+                    "date_posted": "2026-03-06",
+                    "amount": -2500,
+                    "description": "Social Security Administration",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-02-03",
+                    "date_posted": "2026-02-04",
+                    "amount": -2500,
+                    "description": "Social Security Administration",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-04-29",
+                    "date_posted": "2026-04-30",
+                    "amount": -25,
+                    "description": "bank interest payment",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-03-29",
+                    "date_posted": "2026-03-30",
+                    "amount": -25,
+                    "description": "bank interest payment",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-02-27",
+                    "date_posted": "2026-02-28",
+                    "amount": -25,
+                    "description": "bank interest payment",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-04-01",
+                    "date_posted": "2026-04-02",
+                    "amount": -75,
+                    "description": "child support",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-03-19",
+                    "date_posted": "2026-03-20",
+                    "amount": -75,
+                    "description": "child support",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-02-27",
+                    "date_posted": "2026-02-28",
+                    "amount": -75,
+                    "description": "child support",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-04-20",
+                    "date_posted": "2026-04-21",
                     "amount": -750,
                     "description": "Unemployment Benefits",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-22",
-                    "date_posted": "2026-03-23",
+                    "date_transacted": "2026-04-06",
+                    "date_posted": "2026-04-07",
                     "amount": -750,
                     "description": "Unemployment Benefits",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-08",
-                    "date_posted": "2026-03-09",
+                    "date_transacted": "2026-03-23",
+                    "date_posted": "2026-03-24",
+                    "amount": -750,
+                    "description": "Unemployment Benefits",
+                    "currency": "USD"
+                },
+                {
+                    "date_transacted": "2026-03-09",
+                    "date_posted": "2026-03-10",
                     "amount": -750,
                     "description": "Unemployment Benefits",
                     "currency": "USD"
@@ -161,85 +161,85 @@
             "subtype": "savings",
             "transactions": [
                 {
-                    "date_transacted": "2026-04-15",
-                    "date_posted": "2026-04-16",
+                    "date_transacted": "2026-04-16",
+                    "date_posted": "2026-04-17",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-31",
-                    "date_posted": "2026-04-01",
+                    "date_transacted": "2026-04-01",
+                    "date_posted": "2026-04-02",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-15",
-                    "date_posted": "2026-03-16",
+                    "date_transacted": "2026-03-16",
+                    "date_posted": "2026-03-17",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-02-28",
-                    "date_posted": "2026-03-01",
+                    "date_transacted": "2026-03-01",
+                    "date_posted": "2026-03-02",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-02-13",
-                    "date_posted": "2026-02-14",
+                    "date_transacted": "2026-02-14",
+                    "date_posted": "2026-02-15",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-01-29",
-                    "date_posted": "2026-01-30",
+                    "date_transacted": "2026-01-30",
+                    "date_posted": "2026-01-31",
                     "amount": -1000,
                     "description": "Uber Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-04-19",
-                    "date_posted": "2026-04-20",
+                    "date_transacted": "2026-04-20",
+                    "date_posted": "2026-04-21",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-04-12",
-                    "date_posted": "2026-04-13",
+                    "date_transacted": "2026-04-13",
+                    "date_posted": "2026-04-14",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-04-05",
-                    "date_posted": "2026-04-06",
+                    "date_transacted": "2026-04-06",
+                    "date_posted": "2026-04-07",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-29",
-                    "date_posted": "2026-03-30",
+                    "date_transacted": "2026-03-30",
+                    "date_posted": "2026-03-31",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-22",
-                    "date_posted": "2026-03-23",
+                    "date_transacted": "2026-03-23",
+                    "date_posted": "2026-03-24",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
                 },
                 {
-                    "date_transacted": "2026-03-15",
-                    "date_posted": "2026-03-16",
+                    "date_transacted": "2026-03-16",
+                    "date_posted": "2026-03-17",
                     "amount": -1200,
                     "description": "Lyft Payment",
                     "currency": "USD"
