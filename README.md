@@ -9,7 +9,7 @@ This repo contains JSON files specifying custom users suitable for testing Plaid
 
 You can add these users to the Sandbox environment via the [Test Users page in the Plaid Dashboard](https://dashboard.plaid.com/developers/sandbox?tab=testUsers). For more details, see [Configuring the custom user account](https://plaid.com/docs/sandbox/user-custom/#configuring-the-custom-user-account) in the Plaid documentation.
 
-The dates in these test files are automatically updated daily such that the most recent date will be set to today, and then all other dates are adjusted proportionately. After loading these files into Sandbox, you may need to occasionally updates them so that Income transactions and data are within the past 90 days, and transactions for other products are within the last 2 years. You can do this by re-fetching these files from Github, or running the `update_dates.py` script.
+The dates in these test files are automatically updated daily such that the most recent date will be set to today, and then all other dates are adjusted proportionately. After loading these files into Sandbox, you may need to occasionally update them so that Income transactions and data are within the past 90 days, and transactions for other products are within the last 2 years. You can do this by re-fetching these files from Github, or running the `update_dates.py` script.
 
 If you want to customize these files further, see the [Custom User configuration object schema](https://plaid.com/docs/sandbox/user-custom/#configuration-object-schema) for detailed documentation on available options and fields.
 
