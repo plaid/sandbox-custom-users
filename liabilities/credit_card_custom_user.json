@@ -1,0 +1,62 @@
+{
+  "override_accounts": [
+    {
+      "type": "credit",
+      "subtype": "credit card",
+      "starting_balance": 1245.67,
+      "force_available_balance": 8754.33,
+      "meta": {
+        "name": "Plaid Credit Card",
+        "official_name": "Plaid Platinum Rewards Card",
+        "limit": 10000
+      },
+      "transactions": [
+        {
+          "date_transacted": "2026-07-20",
+          "date_posted": "2026-07-21",
+          "amount": 87.43,
+          "description": "Amazon.com Purchase",
+          "currency": "USD"
+        },
+        {
+          "date_transacted": "2026-07-18",
+          "date_posted": "2026-07-19",
+          "amount": 156.89,
+          "description": "Whole Foods Market",
+          "currency": "USD"
+        },
+        {
+          "date_transacted": "2026-07-16",
+          "date_posted": "2026-07-17",
+          "amount": 45,
+          "description": "Shell Gas Station",
+          "currency": "USD"
+        },
+        {
+          "date_transacted": "2026-07-14",
+          "date_posted": "2026-07-15",
+          "amount": 1200,
+          "description": "Monthly Rent Payment",
+          "currency": "USD"
+        },
+        {
+          "date_transacted": "2026-07-12",
+          "date_posted": "2026-07-13",
+          "amount": 23.5,
+          "description": "Starbucks Coffee",
+          "currency": "USD"
+        }
+      ],
+      "liability": {
+        "type": "credit",
+        "purchase_apr": 16.99,
+        "cash_apr": 24.99,
+        "balance_transfer_apr": 18.99,
+        "special_apr": 0,
+        "last_payment_amount": 250,
+        "minimum_payment_amount": 35,
+        "is_overdue": false
+      }
+    }
+  ]
+}
