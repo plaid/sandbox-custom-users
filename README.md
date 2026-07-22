@@ -9,14 +9,12 @@ This repo contains JSON files specifying custom users suitable for testing Plaid
 
 You can add these users to the Sandbox environment via the [Test Users page in the Plaid Dashboard](https://dashboard.plaid.com/developers/sandbox?tab=testUsers). For more details, see [Configuring the custom user account](https://plaid.com/docs/sandbox/user-custom/#configuring-the-custom-user-account) in the Plaid documentation.
 
-## Using these files without the Dashboard
-
-You don't need the Dashboard to use a custom user file -- you can create an Item directly via the API, which is useful for scripting, CI, or handing a file like these to an AI-assisted coding tool to set up test data programmatically. Call [`/sandbox/public_token/create`](https://plaid.com/docs/api/sandbox/#sandboxpublic_tokencreate) with:
+To use these test users without the Dashboard, directly via the API, call [`/sandbox/public_token/create`](https://plaid.com/docs/api/sandbox/#sandboxpublic_tokencreate) with:
 
 - `options.override_username` set to the literal string `user_custom`
-- `options.override_password` set to the **entire contents of the custom user file, JSON-stringified into a single string** (not passed as a nested JSON object)
+- `options.override_password` set to the entire contents of the custom user file, JSON-stringified into a single string
 
-For example, in Python:
+For example:
 
 ```python
 import json
@@ -40,8 +38,6 @@ resp = requests.post(
 )
 public_token = resp.json()["public_token"]
 ```
-
-Then exchange the returned `public_token` via [`/item/public_token/exchange`](https://plaid.com/docs/api/items/#itempublic_tokenexchange) for an `access_token` as usual. Use a non-OAuth institution, such as `ins_109508` (First Platypus Bank) -- see the warning below.
 
 The dates in these test files are automatically updated daily such that the most recent date will be set to today, and then all other dates are adjusted proportionately. After loading these files into Sandbox, you may need to occasionally update them so that Income transactions and data are within the past 90 days, and transactions for other products are within the last 2 years. You can do this by re-fetching these files from Github, or running the `update_dates.py` script.
 
