@@ -5,7 +5,7 @@
     {
       "type": null,
       "subtype": null,
-      "starting_balance": null,
+      "starting_balance": 10,000,
       "force_available_balance": null,
       "currency": null,
       "meta": {
@@ -14,9 +14,9 @@
         "limit": null
       },
       "numbers": {
-        "account": null,
-        "ach_routing": null,
-        "ach_wire_routing": null,
+        "account": 333517968405,
+        "ach_routing": 031101279,
+        "ach_wire_routing": 031101279,
         "eft_institution": null,
         "eft_branch": null,
         "international_bic": null,
@@ -29,12 +29,12 @@
           "date_posted": null,
           "amount": null,
           "description": null,
-          "currency": null
+          "currency": United States Dollar
         }
       ],
       "identity": {
         "names": [
-          null
+          Joshua Cox
         ],
         "phone_numbers": [
           {
@@ -45,19 +45,19 @@
         ],
         "emails": [
           {
-            "data": null,
-            "primary": null,
-            "type": null
+            "data": joshuawcox5@gmail.com,
+            "primary": joshuawcox5@gmail.com,
+            "type": personal
           }
         ],
         "addresses": [
           {
             "data": {
-              "city": null,
-              "region": null,
-              "street": null,
-              "postal_code": null,
-              "country": null
+              "city": decatur,
+              "region": Georgia,
+              "street": peachcrest road,
+              "postal_code": 30032,
+              "country": United States of America
             },
             "primary": null
           }
@@ -66,10 +66,10 @@
       "liability": {
         "type": null,
         "purchase_apr": null,
-        "cash_apr": null,
+        "cash_apr": 5000.00,
         "balance_transfer_apr": null,
         "special_apr": null,
-        "last_payment_amount": null,
+        "last_payment_amount": 0.00,
         "minimum_payment_amount": null,
         "is_overdue": null,
         "origination_date": null,
@@ -110,10 +110,10 @@
       },
       "inflow_model": {
         "type": null,
-        "income_amount": null,
-        "payment_day_of_month": null,
+        "income_amount": 10,000,
+        "payment_day_of_month": 09/07/2026,
         "transaction_name": null,
-        "statement_day_of_month": null
+        "statement_day_of_month": 5th
       }
     }
   ],
