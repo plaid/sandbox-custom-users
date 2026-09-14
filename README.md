@@ -1,9 +1,13 @@
+> [!WARNING]
+> As of September 2026, the functionality in this repo is now offered via the in-Dashboard tool Sandbox Studio instead ([try it in the dashboard](https://dashboard.plaid.com/developers/sandbox) or [read the docs](https://plaid.com/docs/sandbox/studio/)). The users in this repo will still work, but for most use cases, Sandbox Studio is a better UI for creating custom Sandbox users.
+
+
 # Overview
 
 This repo contains JSON files specifying custom users suitable for testing Plaid integrations on Sandbox, to test complex or custom scenarios. These files are a starting place for testing -- you can also edit these files before adding them to Sandbox, in order to further customize the test data to your needs.
 
 > [!TIP]
-> Also check out Plaid's selection of [pre-populated Sandbox test users](https://plaid.com/docs/sandbox/test-credentials/). These users are easier to work with than custom Sandbox users and allow you to test some common scenarios that custom Sandbox users don't support, like dynamically updating data (Transactions), or micro-deposit flows (Auth).
+> Also check out Plaid's selection of [pre-populated Sandbox test users](https://plaid.com/docs/sandbox/test-credentials/). These users allow you to test some common scenarios that custom Sandbox users don't support, like dynamically updating data (Transactions), or micro-deposit flows (Auth).
 
 # How to use these files
 
