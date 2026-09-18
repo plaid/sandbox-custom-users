@@ -1,4 +1,5 @@
 {
+    "roll_dates_forward": true,
     "override_accounts": [
         {
             "type": "depository",
@@ -38,7 +39,7 @@
                     "date_transacted": "2026-09-11",
                     "date_posted": "2026-09-12",
                     "amount": -7500,
-                    "description": "Transfer into Gingham from another bank account. Merchant name: Bank of America - Checking \u2022\u20221111",
+                    "description": "Transfer into Gingham from another bank account. Merchant name: Bank of America - Checking ••1111",
                     "currency": "USD"
                 },
                 {
@@ -164,7 +165,7 @@
                     "date_transacted": "2026-07-19",
                     "date_posted": "2026-07-20",
                     "amount": -10000,
-                    "description": "Transfer into Gingham from another bank account. Merchant name: Wells Fargo - Checking \u2022\u20222222",
+                    "description": "Transfer into Gingham from another bank account. Merchant name: Wells Fargo - Checking ••2222",
                     "currency": "USD"
                 },
                 {

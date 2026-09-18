@@ -1,11 +1,13 @@
 {
+  "roll_dates_forward": true,
   "override_accounts": [
     {
       "type": "depository",
       "subtype": "checking",
       "identity": {
         "names": [
-          "John Smith","Jane Doe"
+          "John Smith",
+          "Jane Doe"
         ],
         "addresses": [
           {

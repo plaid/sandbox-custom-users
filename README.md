@@ -43,7 +43,7 @@ resp = requests.post(
 public_token = resp.json()["public_token"]
 ```
 
-The dates in these test files are automatically updated daily such that the most recent date will be set to today, and then all other dates are adjusted proportionately. After loading these files into Sandbox, you may need to occasionally update them so that Income transactions and data are within the past 90 days, and transactions for other products are within the last 2 years. You can do this by re-fetching these files from Github, or running the `update_dates.py` script.
+Every config in this repo sets `roll_dates_forward: true`. When you create a Sandbox Item from one, Plaid shifts every date in the config so the most recent activity (transactions, pay days, holding price dates, loan payments) lands on the day the Item is created, keeping the spacing between dates. The files no longer need their dates rewritten to stay inside the Transactions and Income windows. Remove the flag if you want the dates used exactly as written. See [Customize Sandbox test users](https://plaid.com/docs/sandbox/user-custom/) for the field reference.
 
 If you want to customize these files further, see the [Custom User configuration object schema](https://plaid.com/docs/sandbox/user-custom/#configuration-object-schema) for detailed documentation on available options and fields.
 

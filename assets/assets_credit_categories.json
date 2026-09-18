@@ -1,4 +1,5 @@
 {
+    "roll_dates_forward": true,
     "override_accounts": [
         {
             "type": "depository",
@@ -1065,7 +1066,7 @@
                     "date_transacted": "2026-09-18",
                     "date_posted": "2026-09-18",
                     "amount": 144.45,
-                    "description": "Bill Pay Entergy\u00ac\u2020Services WEB \u00ac\u2020XXXXXXXXXXXXX\u00ac\u2020XXXXXXXXXXXXXXX",
+                    "description": "Bill Pay Entergy¬†Services WEB ¬†XXXXXXXXXXXXX¬†XXXXXXXXXXXXXXX",
                     "currency": "USD"
                 },
                 {
