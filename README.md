@@ -1,21 +1,34 @@
 > [!NOTE]
-> This repo stays up for developers who already build from these files, and the files keep working. For new work, use Sandbox Studio in the Dashboard ([open it](https://dashboard.plaid.com/developers/sandbox) or [read the docs](https://plaid.com/docs/sandbox/studio/)): twelve of these configs, plus the blank template, are offered there as templates in the Create user dropdown, and the table below maps each file to its template. The other nineteen files (Assets, bank income, document income, Ireland auth, multiple-name identity, credit card, and checking-plus-savings) have no Studio template yet and are only available here.
+> This repo stays up for developers who already build from these files, and the files keep working. For new work, use Sandbox Studio in the Dashboard ([open it](https://dashboard.plaid.com/developers/sandbox) or [read the docs](https://plaid.com/docs/sandbox/studio/)): every Item config in this repo is offered there as a template in the Create user dropdown, and the table below maps each file to its template. The six files under `income/document_income` are upload fixtures for Document Income rather than Item configs, so they live only here.
 
 | File in this repo | Sandbox Studio template |
 | --- | --- |
 | `blank_template_custom_sandbox_user.json` | No template |
-| `auth/auth_custom_user.json` | Custom auth user (`custom_auth`) |
-| `auth/auth_canada_custom_user.json` | Custom auth user in Canada (`custom_auth_canada`) |
-| `auth/auth_uk_custom_user.json` | Custom auth user in the United Kingdom (`custom_auth_uk`) |
-| `identity/joint_owner_identity_custom_user.json` | Joint account ownership (`custom_identity_joint_owner`) |
-| `identity/leslie_knope_financial_account_matching.json` | Primary test user for financial account matching (`custom_financial_account_matching`) |
-| `income/payroll_income_custom_user.json` | Custom user with payroll income (`custom_income_payroll`) |
-| `income/SMBCustomUser.json` | Custom user with income from a small business (`custom_income_smb`) |
-| `income/selfEmployedGiguser.json` | Custom self-employed user working in gig economy (`custom_income_self_employed`) |
-| `income/SSAuser.json` | Custom user with social security income (`custom_income_social_security`) |
-| `investments/brokerage_custom_user.json` | Custom user with holdings in brokerage account (`custom_investments_brokerage`) |
-| `liabilities/student_loan_custom_user.json` | Custom user with student debt (`custom_liabilities_student`) |
-| `transactions/business_account.json` | Custom business user with transactions (`custom_transactions_business`) |
+| `assets/assets_custom_user.json` | John Smith Assets (`custom_assets`) |
+| `assets/assets_custom_user2.json` | John Smith Assets Plus (`custom_assets_multi_account`) |
+| `assets/assets_credit_categories.json` | John Smith Categories (`custom_assets_credit_categories`) |
+| `auth/auth_custom_user.json` | John Smith (`custom_auth`) |
+| `auth/auth_canada_custom_user.json` | John Smith CA (`custom_auth_canada`) |
+| `auth/auth_ireland_custom_user.json` | John Smith IE (`custom_auth_ireland`) |
+| `auth/auth_uk_custom_user.json` | John Smith UK (`custom_auth_uk`) |
+| `identity/identity_multiple_names_custom_user.json` | John Smith and Jane Doe (`custom_identity_multiple_names`) |
+| `identity/joint_owner_identity_custom_user.json` | Jane Alana Smith (`custom_identity_joint_owner`) |
+| `identity/leslie_knope_financial_account_matching.json` | Leslie Knope (`custom_financial_account_matching`) |
+| `income/bank_income_basic.json` | George Smith (`custom_bank_income`) |
+| `income/bank_income_custom_user_5_income_sources.json` | John Smith Five Sources (`custom_bank_income_five_sources`) |
+| `income/bank_income_custom_user_6+_employers_in_90_days.json` | John Smith Six Employers (`custom_bank_income_many_employers`) |
+| `income/bank_income_custom_user_random_income_over_90_days.json` | John Smith Irregular (`custom_bank_income_irregular`) |
+| `income/payroll_income_custom_user.json` | Chip Hazard (`custom_income_payroll`) |
+| `income/SMBCustomUser.json` | John Smith SMB (`custom_income_smb`) |
+| `income/selfEmployedGiguser.json` | John Smith Gig (`custom_income_self_employed`) |
+| `income/SSAuser.json` | John Smith SSA (`custom_income_social_security`) |
+| `income/transactions+inflow_custom_user.json` | John Smith Inflow (`custom_income_inflow_model`) |
+| `income/welderTestUser.json` | George Smith Welder (`custom_income_welder`) |
+| `investments/brokerage_custom_user.json` | John Smith Cash (`custom_investments_brokerage`) |
+| `liabilities/credit_card_custom_user.json` | John Smith Card (`custom_liabilities_credit_card`) |
+| `liabilities/student_loan_custom_user.json` | Brady Williams (`custom_liabilities_student`) |
+| `transactions/business_account.json` | Hooli LLC (`custom_transactions_business`) |
+| `transactions/transactions_checking+savings_custom_user.json` | John Smith Savings (`custom_transactions_checking_savings`) |
 
 # Overview
 
