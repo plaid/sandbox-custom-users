@@ -1,6 +1,34 @@
-> [!WARNING]
-> As of September 2026, the functionality in this repo is now offered via the in-Dashboard tool Sandbox Studio instead ([try it in the dashboard](https://dashboard.plaid.com/developers/sandbox) or [read the docs](https://plaid.com/docs/sandbox/studio/)). The users in this repo will still work, but for most use cases, Sandbox Studio is a better UI for creating custom Sandbox users.
+> [!NOTE]
+> This repo stays up for developers who already build from these files, and the files keep working. For new work, use Sandbox Studio in the Dashboard ([open it](https://dashboard.plaid.com/developers/sandbox) or [read the docs](https://plaid.com/docs/sandbox/studio/)): every Item config in this repo is offered there as a template in the Create user dropdown, and the table below maps each file to its template. The six files under `income/document_income` are upload fixtures for Document Income rather than Item configs, so they live only here.
 
+| File in this repo | Sandbox Studio template |
+| --- | --- |
+| `blank_template_custom_sandbox_user.json` | No template |
+| `assets/assets_custom_user.json` | John Smith Assets (`custom_assets`) |
+| `assets/assets_custom_user2.json` | John Smith Assets Plus (`custom_assets_multi_account`) |
+| `assets/assets_credit_categories.json` | John Smith Categories (`custom_assets_credit_categories`) |
+| `auth/auth_custom_user.json` | John Smith (`custom_auth`) |
+| `auth/auth_canada_custom_user.json` | John Smith CA (`custom_auth_canada`) |
+| `auth/auth_ireland_custom_user.json` | John Smith IE (`custom_auth_ireland`) |
+| `auth/auth_uk_custom_user.json` | John Smith UK (`custom_auth_uk`) |
+| `identity/identity_multiple_names_custom_user.json` | John Smith and Jane Doe (`custom_identity_multiple_names`) |
+| `identity/joint_owner_identity_custom_user.json` | Jane Alana Smith (`custom_identity_joint_owner`) |
+| `identity/leslie_knope_financial_account_matching.json` | Leslie Knope (`custom_financial_account_matching`) |
+| `income/bank_income_basic.json` | George Smith (`custom_bank_income`) |
+| `income/bank_income_custom_user_5_income_sources.json` | John Smith Five Sources (`custom_bank_income_five_sources`) |
+| `income/bank_income_custom_user_6+_employers_in_90_days.json` | John Smith Six Employers (`custom_bank_income_many_employers`) |
+| `income/bank_income_custom_user_random_income_over_90_days.json` | John Smith Irregular (`custom_bank_income_irregular`) |
+| `income/payroll_income_custom_user.json` | Chip Hazard (`custom_income_payroll`) |
+| `income/SMBCustomUser.json` | John Smith SMB (`custom_income_smb`) |
+| `income/selfEmployedGiguser.json` | John Smith Gig (`custom_income_self_employed`) |
+| `income/SSAuser.json` | John Smith SSA (`custom_income_social_security`) |
+| `income/transactions+inflow_custom_user.json` | John Smith Inflow (`custom_income_inflow_model`) |
+| `income/welderTestUser.json` | George Smith Welder (`custom_income_welder`) |
+| `investments/brokerage_custom_user.json` | John Smith Cash (`custom_investments_brokerage`) |
+| `liabilities/credit_card_custom_user.json` | John Smith Card (`custom_liabilities_credit_card`) |
+| `liabilities/student_loan_custom_user.json` | Brady Williams (`custom_liabilities_student`) |
+| `transactions/business_account.json` | Hooli LLC (`custom_transactions_business`) |
+| `transactions/transactions_checking+savings_custom_user.json` | John Smith Savings (`custom_transactions_checking_savings`) |
 
 # Overview
 
@@ -43,7 +71,7 @@ resp = requests.post(
 public_token = resp.json()["public_token"]
 ```
 
-The dates in these test files are automatically updated daily such that the most recent date will be set to today, and then all other dates are adjusted proportionately. After loading these files into Sandbox, you may need to occasionally update them so that Income transactions and data are within the past 90 days, and transactions for other products are within the last 2 years. You can do this by re-fetching these files from Github, or running the `update_dates.py` script.
+Every config in this repo sets `roll_dates_forward: true`. When you create a Sandbox Item from one, Plaid shifts every date in the config so the most recent activity (transactions, pay days, holding price dates, loan payments) lands on the day the Item is created, keeping the spacing between dates. The files no longer need their dates rewritten to stay inside the Transactions and Income windows. Remove the flag if you want the dates used exactly as written. See [Customize Sandbox test users](https://plaid.com/docs/sandbox/user-custom/) for the field reference.
 
 If you want to customize these files further, see the [Custom User configuration object schema](https://plaid.com/docs/sandbox/user-custom/#configuration-object-schema) for detailed documentation on available options and fields.
 
