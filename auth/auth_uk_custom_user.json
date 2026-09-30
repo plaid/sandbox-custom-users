@@ -86,7 +86,8 @@
                   "primary":true
                }
             ]
-         }
+         },
+         "holder_category": "unrecognized"
       }
    ]
 }

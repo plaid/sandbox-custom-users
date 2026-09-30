@@ -42,7 +42,8 @@
                   "primary":true
                }
             ]
-         }
+         },
+         "holder_category": "unrecognized"
       },
        {
          "type":"depository",
@@ -86,7 +87,8 @@
                   "primary":true
                }
             ]
-         }
+         },
+         "holder_category": "unrecognized"
       }
    ]
 }
