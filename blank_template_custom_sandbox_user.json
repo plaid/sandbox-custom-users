@@ -98,15 +98,12 @@
         "repayment_plan_type": null,
         "sequence_number": null,
         "servicer_address": {
-            "data": {
-              "city": null,
-              "region": null,
-              "street": null,
-              "postal_code": null,
-              "country": null
-            },
-            "primary": null
-          }
+          "city": null,
+          "region": null,
+          "street": null,
+          "postal_code": null,
+          "country": null
+        }
       },
       "inflow_model": {
         "type": null,
