@@ -79,6 +79,7 @@ sandbox_user_files = [
     "income/document_income/paystub_and_risk_signals.json",
     "income/welderTestUser.json",
     "investments/brokerage_custom_user.json",
+    "liabilities/credit_card_custom_user.json",
     "transactions/business_account.json",
     "transactions/transactions_checking+savings_custom_user.json",
 ]
